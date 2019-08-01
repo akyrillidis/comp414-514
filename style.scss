@@ -335,7 +335,7 @@ img {
 }
 
 .sidebar {
-  padding: -10px 0;
+  padding:0 0;
 
   @include mobile {
     text-align: center;
@@ -352,7 +352,7 @@ img {
   }
 
   .site-avatar {
-    margin:0 auto;
+    margin:-100px;
     display: block;
     max-width: 356px;
     max-height: 238px;
@@ -370,7 +370,7 @@ img {
 }
 
 .site-name {
-  margin: 15px auto;
+  margin: 15px;
   color: $oc-gray-9;
   cursor: pointer;
   font-family: $base-font;
