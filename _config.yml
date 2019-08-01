@@ -1,18 +1,18 @@
 
-name: COMP414/514
-description: Rice CS course
-avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
+name: Optimization: Algorithms, Complexity & Approximations
+description: COMP 414/514
+avatar: https://github.com/akyrillidis/comp414-514/images/noncvx.png
 favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
 
 navigation:
-  - name: Home
+  - name: Description
     url: /
-  - name: About
-    url: /about
-  - name: Archive
-    url: /archive
-  - name: Tags
-    url: /tags
+  - name: Schedule
+    url: /schedule
+  - name: Policies
+    url: /policies
+  - name: Material
+    url: /material
 
 paginate: 8
 
