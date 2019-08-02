@@ -335,7 +335,7 @@ img {
 }
 
 .sidebar {
-  padding:0 0;
+  padding:0 auto;
 
   @include mobile {
     text-align: center;
