@@ -4,16 +4,6 @@ description: Algorithms, Complexity and Approximations
 avatar: images/noncvx.png
 favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
 
-navigation:
-  - name: Description
-    url: /index.md
-  - name: Schedule
-    url: /schedule.md
-  - name: Policies
-    url: /policies.md
-  - name: Material
-    url: /material.md
-
 paginate: 8
 
 footer-links: 
