@@ -503,7 +503,10 @@ nav {
 }
 
 .page {
-  margin: 0px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 30px;
 
   @include mobile {
     margin: 24px;
