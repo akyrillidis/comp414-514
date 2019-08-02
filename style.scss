@@ -353,7 +353,7 @@ img {
   }
 
   .site-avatar {
-    margin:-30px auto 0px auto;
+    margin:-20px auto -20px auto;
     display: block;
     max-width: 640px;
     max-height: 428px;
@@ -371,7 +371,7 @@ img {
 }
 
 .site-name {
-  margin: 20px auto;
+  margin: 0px auto;
   color: $oc-gray-9;
   cursor: pointer;
   font-family: $base-font;
@@ -381,7 +381,7 @@ img {
 }
 
 .site-description {
-  margin: 100px auto;
+  margin: 0px auto;
   color: $oc-gray-7;
   font-size: 16px;
 
