@@ -6,13 +6,13 @@ favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/fav
 
 navigation:
   - name: Description
-    url: /
+    url: /index.md
   - name: Schedule
-    url: /schedule
+    url: /schedule.md
   - name: Policies
-    url: /policies
+    url: /policies.md
   - name: Material
-    url: /material
+    url: /material.md
 
 paginate: 8
 
