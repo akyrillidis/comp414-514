@@ -352,10 +352,10 @@ img {
   }
 
   .site-avatar {
-    margin:-50px auto;
+    margin:-50px auto 0px auto;
     display: block;
-    max-width: 534px;
-    max-height: 357px;
+    max-width: 640px;
+    max-height: 428px;
 
     @include mobile {
       max-width: 240px;
@@ -370,7 +370,7 @@ img {
 }
 
 .site-name {
-  margin: 15px;
+  margin: 30px;
   color: $oc-gray-9;
   cursor: pointer;
   font-family: $base-font;
@@ -423,7 +423,7 @@ nav {
 
 .wrapper-content {
   float: right;
-  width: 70%;
+  width: 50%;
 
   @include mobile {
     float: none;
