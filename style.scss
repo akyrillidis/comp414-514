@@ -29,7 +29,7 @@ body {
   margin: 20px;
   max-width: 800px;
   padding: 0 16px;
-  width: 80%;
+  width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -313,7 +313,7 @@ img {
 //
 
 .wrapper-sidebar {
-  width: 30%;
+  width: 25%;
 	-webkit-background-size: cover;
 	background-size: cover;
 	background-color: $oc-gray-0;
