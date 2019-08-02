@@ -424,7 +424,7 @@ nav {
 
 .wrapper-content {
   float: right;
-  width: 50%;
+  width: 100%;
 
   @include mobile {
     float: none;
@@ -500,7 +500,7 @@ nav {
 }
 
 .page {
-  margin: 20px;
+  margin: 0px;
 
   @include mobile {
     margin: 24px;
