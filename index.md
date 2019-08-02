@@ -2,15 +2,15 @@
 layout: default
 ---
 
-## Description
+## DESCRIPTION
 
 The main focus of the course will be on smooth optimization techniques, with applications in machine learning and artificial intelligence. The course will introduce the basics of algorithms on continuous optimization, starting from the classical gradient descent algorithm in convex optimization, towards more sophisticated approaches in non-convex scenarios. The course will explore the fundamental theory, algorithms, complexity and approximations in nonlinear optimization. 
 
-### Prerequisites
+### PREREQUISITES
 
 The prerequisites are linear algebra, multivariate calculus, probability and statistics. AI/Machine learning courses are not necessary but highly recommended.
 
-### Course outcomes
+### COURSE OUTCOMES
 
 After successful attendance, students are expected to:
 + have a good understanding of theory involved in optimization, via machine learning/AI applications
@@ -20,7 +20,7 @@ After successful attendance, students are expected to:
 + have a good comprehension how optimization plays a key role in different areas of ML/AI/SP.
 + be able to read and review advanced papers on similar subjects.
 
-### Course policies
+### COURSE POLICIES
 
 - During Class
 The electronic recording of notes will be important for class and so computers will be allowed in
