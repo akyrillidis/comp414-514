@@ -313,7 +313,7 @@ img {
 //
 
 .wrapper-sidebar {
-  width: 25%;
+  width: 30%;
 	-webkit-background-size: cover;
 	background-size: cover;
 	background-color: $oc-gray-0;
@@ -341,9 +341,10 @@ img {
     text-align: center;
   }
 }
+
 .site-info {
   text-align:center;
-  margin: 100px auto 0;
+  margin: 20px auto;
 
   @include mobile {
     float: none;
