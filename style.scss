@@ -425,6 +425,7 @@ nav {
 .wrapper-content {
   float: right;
   width: 60%;
+  padding-right: 30px; 
 
   @include mobile {
     float: none;
