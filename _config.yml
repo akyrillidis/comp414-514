@@ -6,7 +6,7 @@ favicon: images/noncvx.png
 
 navigation:
   - name: Schedule
-    url: ./schedule.md
+    url: https://akyrillidis.github.io/comp414-514/schedule.md
     
 paginate: 8
 
