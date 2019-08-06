@@ -428,7 +428,7 @@ nav {
   padding-right: 20px; 
   padding-left: -80px;
   margin-right: 50px;
-  margin-left: -100px;
+  margin-left: 100px;
 
   @include mobile {
     float: none;
