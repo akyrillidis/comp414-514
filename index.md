@@ -35,10 +35,10 @@ given to very extreme circumstances, with proper documentations.
 
 - Academic Integrity and Honesty
 Students are required to comply with the university policy on academic integrity found in the 
-Honor System Handbook (http://honor.rice.edu/honor-system-handbook/).
+Honor System Handbook ([*http://honor.rice.edu/honor-system-handbook/*](http://honor.rice.edu/honor-system-handbook/).
 
 - Accommodations for Disabilities
 If you have a documented disability that may affect academic performance, you should: 1) make sure
 this documentation is on file with Disability Resource Center (Allen Center, Room 111 / 
-adarice@rice.edu / x5841) to determine the accommodations you need; and 2) meet with me to discuss 
+[*adarice@rice.edu*](adarice@rice.edu) / x5841) to determine the accommodations you need; and 2) meet with me to discuss 
 your accommodation needs.
