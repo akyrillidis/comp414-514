@@ -1,8 +1,8 @@
 
 name: COMP 414/514
 description: Algorithms, Complexity and Approximations
-avatar: comp414-514/images/noncvx.png
-favicon: comp414-514/images/noncvx.png
+avatar: images/noncvx.png
+favicon: images/noncvx.png
 
 navigation:
   - name: SCHEDULE
