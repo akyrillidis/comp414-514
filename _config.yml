@@ -6,7 +6,7 @@ favicon: images/noncvx.png
 
 navigation:
   - name: SCHEDULE
-    url: /schedule.html
+    url: /schedule.md
     
 paginate: 8
 
