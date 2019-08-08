@@ -4,8 +4,6 @@ layout: default
 
 &nbsp;
 
-&nbsp;
-
 
 | # | Date  | Topic  | Lecture | Notebook  |
 |-|-|-|-|-|
