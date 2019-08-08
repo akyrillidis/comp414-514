@@ -10,6 +10,10 @@ navigation:
     
 paginate: 8
 
+url: 
+baseurl: /comp414-514
+
+
 footer-links: 
   email: ricecomp414@gmail.com
 
