@@ -18,12 +18,12 @@ layout: default
 | 6 | 10/11 | Momemtum acceleration | [.pdf]()  | [.ipynb]()  |
 | 7 | 10/18 | Stochastic motions in gradient descent | [.pdf]()  | [.ipynb]()  |
 | 8 | 10/25 | Practical aspects of opt. methods | [.pdf]()  | [.ipynb]()  |
-| | | **Part III: Provable non-convex optimization ** | | |
+| | | **Part III: Provable non-convex optimization** | | |
 | 9 | 11/01 | Sparse feature selection and recovery | [.pdf]()  | [.ipynb]()  |
 | 10 | 11/08 | Low-rank recovery | [.pdf]()  | [.ipynb]()  |
 | 11 | 11/15 | Alternating minimization and the EM algorithm | [.pdf]()  | [.ipynb]()  |
 | 12 | 11/22 | Landscape properties of general functions | [.pdf]()  | [.ipynb]()  |
-| | | **Part IV: Optimization methods in modern ML ** | | |
+| | | **Part IV: Optimization methods in modern ML** | | |
 | 13 | 12/06 | Methods for training NNs  | [.pdf]()  | [.ipynb]()  |
 | 14 | 12/06 | Methods that scale up and out | [.pdf]()  | [.ipynb]()  |
 
