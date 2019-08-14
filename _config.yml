@@ -7,6 +7,8 @@ favicon: images/noncvx.png
 navigation:
   - name: SCHEDULE
     url: /schedule
+  - name: SYLLABUS
+    url: /
     
 paginate: 8
 
