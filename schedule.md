@@ -23,6 +23,7 @@ layout: default
 | 10 | 11/08 | Low-rank recovery | [.pdf]()  | [.ipynb]()  |
 | 11 | 11/15 | Alternating minimization and the EM algorithm | [.pdf]()  | [.ipynb]()  |
 | 12 | 11/22 | Landscape properties of general functions | [.pdf]()  | [.ipynb]()  |
+| - | 11/29 | *No class (Thanksgiving - have fun!)* | ---  | ---  |
 | | | **Part IV: Optimization methods in modern ML** | | |
 | 13 | 12/06 | Methods for training NNs  | [.pdf]()  | [.ipynb]()  |
 | 14 | 12/06 | Methods that scale up and out | [.pdf]()  | [.ipynb]()  |
