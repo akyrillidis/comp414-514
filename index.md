@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## DESCRIPTION [*Syllabus*]()
+## DESCRIPTION    [*Syllabus*]()
 
 The main focus of the course will be on smooth optimization techniques, with applications in machine learning and artificial intelligence. The course will introduce the basics of algorithms on continuous optimization, starting from the classical gradient descent algorithm in convex optimization, towards more sophisticated approaches in non-convex scenarios. The course will explore the fundamental theory, algorithms, complexity and approximations in nonlinear optimization. 
 
