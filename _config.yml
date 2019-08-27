@@ -9,6 +9,8 @@ navigation:
     url: /schedule
   - name: SYLLABUS
     url: /schedule/images/Syllabus.pdf
+  - name: PROJECT
+    url: /project
     
 paginate: 8
 
