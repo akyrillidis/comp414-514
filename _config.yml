@@ -11,6 +11,8 @@ navigation:
     url: /schedule/images/Syllabus.pdf
   - name: PROJECT
     url: /project
+  - name: LITERATURE
+    url: /literature
     
 paginate: 8
 
