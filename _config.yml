@@ -10,7 +10,7 @@ navigation:
   - name: SYLLABUS
     url: /schedule/images/Syllabus.pdf
   - name: PROJECT
-    url: /project.md
+    url: /project
     
 paginate: 8
 
