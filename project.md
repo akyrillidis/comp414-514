@@ -4,11 +4,11 @@ layout: default
 
 &nbsp;
 
-The course project can be catergorized as a literature review, as original research, or as a literature review that ends up as original research (there is flexibility to that).
+The course project can be categorized as a literature review, as original research, or as a literature review that ends up as original research (there is flexibility to that).
 
 - **Literature review.** This includes depth review and analysis of a paper (to be selected from a list of papers, provided by the instructor or by you, after instroctor's approval). The review should provide an in-depth summary, exposition and discussion of the paper (which will often include reading other related papers on that subject).
 
-- **Original research.** You are strongly encouranged to combine your current research with the course project. Otherwise, the instructor will provide some ideas to follow. It can be either theoretical or experimental. 
+- **Original research.** You are strongly encouraged to combine your current research with the course project. Otherwise, the instructor will provide some ideas to follow. It can be either theoretical or experimental. 
 
 ### Milestones
 
