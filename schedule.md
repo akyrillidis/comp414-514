@@ -8,7 +8,7 @@ layout: default
 | # | Date  | Topic  | Notes | Lecture | Notebook  |
 |-|-|-|-|-|-|
 | | | **Part I: Basic gradient methods** | | | |
-| 1 | 08/30 | Intro & Preliminaries  | [.pdf](/schedule/images/chapter1.pdf) | [.pdf](/schedule/images/Lecture 1.pdf) | [.ipynb](/schedule/images/Chapter 1a.pdf) [.ipynb](/schedule/images/Chapter 1b.pdf)
+| 1 | 08/30 | Intro & Preliminaries  | [.pdf](/schedule/images/chapter1.pdf) | [.pdf](/schedule/images/Lecture 1.pdf) | [.ipynb](/schedule/images/Chapter 1a.ipynb) [.ipynb](/schedule/images/Chapter 1b.ipynb)
 | - | 09/06 | *No class (traveling)* | ---  | ---  | --- |
 | 2 | 09/13 | Gradient method | [pdf]()  | --- | --- |
 | 3 | 09/20 | Gradient method & Convexity | [.pdf]()  | --- | --- |
