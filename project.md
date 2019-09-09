@@ -64,6 +64,7 @@ The course project can be categorized as a literature review, as original resear
 - [Finding low-rank solutions via non-convex matrix factorization, efficiently and provably](https://arxiv.org/pdf/1606.03168.pdf)
 - [Simultaneously Structured Models with Application to Sparse and Low-rank Matrices](https://arxiv.org/pdf/1212.3753.pdf)
 - [Statistical inference using SGD](https://arxiv.org/pdf/1705.07477.pdf)
+- ~~[A Convergence Theory for Deep Learning via Over-Parameterization](https://arxiv.org/pdf/1811.03962.pdf)~~
 
 &nbsp;
 &nbsp;
