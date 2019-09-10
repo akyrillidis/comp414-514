@@ -24,7 +24,7 @@ The course project can be categorized as a literature review, as original resear
 
 - [Practical coresets constructions for machine learning](https://arxiv.org/pdf/1703.06476.pdf)
 - [Near-optimal bounds for phase synchronization](https://arxiv.org/pdf/1703.06605.pdf)
-- [Phase retrieval via Wirtinger Flow: Theory and Algorithms](https://arxiv.org/pdf/1407.1065.pdf)
+- ~~[Phase retrieval via Wirtinger Flow: Theory and Algorithms](https://arxiv.org/pdf/1407.1065.pdf)~~
 - [Online learning of quantum states](https://arxiv.org/pdf/1802.09025.pdf)
 - [Distributed representations of words and phrases and their compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
 - [Deep learning via Hessian-free optimization](http://www.cs.toronto.edu/~jmartens/docs/Deep_HessianFree.pdf)
