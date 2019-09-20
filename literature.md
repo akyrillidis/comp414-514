@@ -10,7 +10,7 @@ layout: default
 
 ### Papers
 
-1. [Efficient Projections onto the $\ell_1$-Ball for Learning in High Dimensions](https://stanford.edu/~jduchi/projects/DuchiShSiCh08.pdf)
+1. [Efficient Projections onto the l1-Ball for Learning in High Dimensions](https://stanford.edu/~jduchi/projects/DuchiShSiCh08.pdf)
 
 2. [Stay on path: PCA along graph paths](http://proceedings.mlr.press/v37/asteris15.pdf)
 
