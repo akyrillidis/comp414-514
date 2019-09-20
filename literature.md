@@ -18,3 +18,5 @@ layout: default
 
 4. [Simple and Deterministic Matrix Sketching](https://arxiv.org/pdf/1206.0594.pdf)
 
+5. [Linear convergence of gradient and proximal-gradient methods under the Polyak-Łojasiewicz condition](https://arxiv.org/abs/1608.04636)
+
