@@ -13,7 +13,7 @@ layout: default
 | 2 | 09/13 | Gradient method | [.pdf](/schedule/images/chapter2.pdf)  | [.pdf](/schedule/images/Lecture 2.pdf) | [.ipynb](/schedule/images/Chapter 2.ipynb) |
 | - | 09/20 | *No class (Imelda)* | ---  | --- | --- |
 | 3 | 09/27 | Gradient method & Convexity | [.pdf](/schedule/images/chapter3.pdf)  | [.pdf](/schedule/images/Lecture 3.pdf) | [.ipynb](/schedule/images/Chapter 3.ipynb) |
-| 4 | 10/04 | Conditional gradient (Frank-Wolfe) | [.pdf]()  | [.ipynb]()  | --- |
+| 4 | 10/04 | Conditional gradient (Frank-Wolfe) | [.pdf](/schedule/images/chapter4.pdf)  | [.pdf](/schedule/images/Lecture 4.pdf) | [.ipynb](/schedule/images/Chapter 4.ipynb) |
 | | | **Part II: Going faster than basic gradient descent** | | | |
 | 5 | 10/11 | Beyond first-order methods | [.pdf]()  | [.ipynb]()  | --- |
 | - | 10/18 | *No class (Traveling)* | ---  | ---  | --- |
