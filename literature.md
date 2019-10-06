@@ -20,3 +20,9 @@ layout: default
 
 5. [Linear convergence of gradient and proximal-gradient methods under the Polyak-Łojasiewicz condition](https://arxiv.org/abs/1608.04636)
 
+6. [Conditional Gradient Algorithms for Rank-One Matrix Approximations with a Sparsity Constraint
+](https://arxiv.org/pdf/1107.1163.pdf)
+
+7. [Frank-Wolfe with Subsampling Oracle](https://arxiv.org/pdf/1803.07348.pdf)
+
+8. [Linear convergence of a Frank-Wolfe type algorithm over trace-norm balls](https://papers.nips.cc/paper/7199-linear-convergence-of-a-frank-wolfe-type-algorithm-over-trace-norm-balls.pdf)
