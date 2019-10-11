@@ -26,3 +26,8 @@ layout: default
 7. [Frank-Wolfe with Subsampling Oracle](https://arxiv.org/pdf/1803.07348.pdf)
 
 8. [Linear convergence of a Frank-Wolfe type algorithm over trace-norm balls](https://papers.nips.cc/paper/7199-linear-convergence-of-a-frank-wolfe-type-algorithm-over-trace-norm-balls.pdf)
+
+9. [Large-Scale Distributed Second-Order Optimization Using Kronecker-Factored
+Approximate Curvature for Deep Convolutional Neural Networks](https://arxiv.org/pdf/1811.12019.pdf)
+
+10. [Deep learning via Hessian-free optimization](http://www.cs.toronto.edu/~jmartens/docs/Deep_HessianFree.pdf)
