@@ -31,3 +31,11 @@ layout: default
 Approximate Curvature for Deep Convolutional Neural Networks](https://arxiv.org/pdf/1811.12019.pdf)
 
 10. [Deep learning via Hessian-free optimization](http://www.cs.toronto.edu/~jmartens/docs/Deep_HessianFree.pdf)
+
+11. [Adaptive Restart for Accelerated Gradient Schemes](https://arxiv.org/abs/1204.3982)
+
+12. [Why momentum really works](https://distill.pub/2017/momentum/)
+
+13. [A geometric alternative to Nesterov's accelerated gradient descent](https://arxiv.org/abs/1506.08187)
+
+14. [A variational perspective on accelerated methods in optimization](https://arxiv.org/pdf/1603.04245.pdf)
