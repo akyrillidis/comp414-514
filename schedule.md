@@ -20,7 +20,7 @@ layout: default
 | 6 | 10/25 | Momemtum acceleration | [.pdf](/schedule/images/chapter6.pdf)  | [.pdf](/schedule/images/Lecture 6.pdf) | [.ipynb](/schedule/images/Chapter 6.ipynb) |
 | 7 | 11/01 | Stochastic motions in gradient descent | [.pdf]()  | [.pdf](/schedule/images/Lecture 7.pdf) | [.ipynb](/schedule/images/Chapter 7.ipynb) |
 | | | **Part III: Provable non-convex optimization** | | | |
-| 8 | 11/08 | Sparse feature selection and recovery | [.pdf]()  | [.ipynb]()  | --- |
+| 8 | 11/08 | Sparse feature selection and recovery | [.pdf]()  | [.pdf](/schedule/images/Lecture 8.pdf) | [.ipynb](/schedule/images/Chapter 8.ipynb) |
 | 9 | 11/15 | Low-rank recovery | [.pdf]()  | [.ipynb]()  | --- |
 | 10 | 11/22 | Alternating minimization and the EM algorithm | [.pdf]()  | [.ipynb]()  | --- |
 | - | 11/29 | *No class (Thanksgiving - have fun!)* | ---  | ---  | --- |
