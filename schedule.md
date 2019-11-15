@@ -22,7 +22,8 @@ layout: default
 | | | **Part III: Provable non-convex optimization** | | | |
 | 8 | 11/08 | Sparse feature selection and recovery | [.pdf]()  | [.pdf](/schedule/images/Lecture 8.pdf) | [.ipynb](/schedule/images/Chapter 8.ipynb) |
 | 9 | 11/15 | Low-rank recovery | [.pdf]()  | [.pdf](/schedule/images/Lecture 9.pdf) | [.ipynb](/schedule/images/Chapter 9.ipynb) |
+| | | **Part IV: Optimization methods in modern ML** | | | |
 | 10 | 11/22 | Landscape properties of general functions, methods for NNs and distributed computations | [.pdf]()  | [.ipynb]()  | --- |
 | - | 11/29 | *No class (Thanksgiving - have fun!)* | ---  | ---  | --- |
-| | | **Part IV: Optimization methods in modern ML** | | | |
+| | | **Part V: Final exam** | | | |
 | 12 | 12/06 | Presentations day!  | ---  | ---  | --- |
