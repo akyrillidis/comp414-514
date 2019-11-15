@@ -21,11 +21,8 @@ layout: default
 | 7 | 11/01 | Stochastic motions in gradient descent | [.pdf]()  | [.pdf](/schedule/images/Lecture 7.pdf) | [.ipynb](/schedule/images/Chapter 7.ipynb) |
 | | | **Part III: Provable non-convex optimization** | | | |
 | 8 | 11/08 | Sparse feature selection and recovery | [.pdf]()  | [.pdf](/schedule/images/Lecture 8.pdf) | [.ipynb](/schedule/images/Chapter 8.ipynb) |
-| 9 | 11/15 | Low-rank recovery | [.pdf]()  | [.ipynb]()  | --- |
-| 10 | 11/22 | Alternating minimization and the EM algorithm | [.pdf]()  | [.ipynb]()  | --- |
+| 9 | 11/15 | Low-rank recovery | [.pdf]()  | [.pdf](/schedule/images/Lecture 9.pdf) | [.ipynb](/schedule/images/Chapter 9.ipynb) |
+| 10 | 11/22 | Landscape properties of general functions, methods for NNs and distributed computations | [.pdf]()  | [.ipynb]()  | --- |
 | - | 11/29 | *No class (Thanksgiving - have fun!)* | ---  | ---  | --- |
-| 11 | 12/06 | Landscape properties of general functions | [.pdf]()  | [.ipynb]()  | --- |
 | | | **Part IV: Optimization methods in modern ML** | | | |
-| 12 | 12/06 | Methods for training NNs  | [.pdf]()  | [.ipynb]()  | --- |
-| 13 | 12/06 | Methods that scale up and out | [.pdf]()  | [.ipynb]()  | --- |
-
+| 12 | 12/06 | Presentations day!  | ---  | ---  | --- |
