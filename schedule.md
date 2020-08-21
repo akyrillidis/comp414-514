@@ -20,9 +20,9 @@ layout: default
 | 8 | 10.(13/15) | Sparse feature selection and recovery | [.pdf]()  | [.pdf]() | [.ipynb]() |
 | 9 | 10.(20/22) | Low-rank recovery | [.pdf]()  | [.pdf]() | [.ipynb]() |
 | | | **Part IV: Optimization methods in modern ML** | | | |
-| 10 | 10.(27/29) | Landscape properties of general functions, methods for NNs and distributed computations | [.pdf]()  | [.pdf]() [.pdf]() | --- |
-| 10 | 11.(03/05) | Landscape properties of general functions, methods for NNs and distributed computations | [.pdf]()  | [.pdf]() [.pdf]() | --- |
-| 10 | 11.(10/12) | Landscape properties of general functions, methods for NNs and distributed computations | [.pdf]()  | [.pdf]() [.pdf]() | --- |
+| 10 | 10.(27/29) | Landscape properties of general functions | [.pdf]()  | [.pdf]() | --- |
+| 10 | 11.(03/05) | Distributed computations | [.pdf]()  | [.pdf]() | --- |
+| 10 | 11.(10/12) | Methods for neural networks (if time allows) | [.pdf]()  | [.pdf]() | --- |
 | 12 | 11.(17/19) | Presentation days!  | ---  | ---  | --- |
 | | | **Part V: Final exam** | | | |
 
