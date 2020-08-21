@@ -8,6 +8,16 @@ layout: default
 
 ### Book references
 
+1. Nocedal and S. Wright. Numerical optimization. Springer Science & Business Media, 2006.
+
+2. Y. Nesterov. Introductory lectures on convex optimization: A basic course, volume 87. Springer Science & Business Media, 2013.
+
+3. S. Boyd and L. Vandenberghe. Convex optimization. Cambridge university press, 2004.
+
+4. D. Bertsekas. Convex optimization algorithms. Athena Scientific Belmont, 2015.
+
+5. S. Bubeck. Convex optimization: Algorithms and complexity. Foundations and Trends in Machine Learning, 8(3-4):231–357, 2015.
+
 ### Papers
 
 1. [Efficient Projections onto the l1-Ball for Learning in High Dimensions](https://stanford.edu/~jduchi/projects/DuchiShSiCh08.pdf)
