@@ -24,9 +24,9 @@ layout: default
 | 9 | 10.(22/27) | Low-rank recovery | [.pdf]()  | [.pdf]() | [.ipynb]() |
 | | | **Part IV: Optimization methods in modern ML** | | | |
 | 10 | 10.29-11.03 | Landscape properties of general functions | [.pdf]()  | [.pdf]() | --- |
-| 10 | 11.(05/10) | Distributed computations | [.pdf]()  | [.pdf]() | --- |
-| 10 | 11.12 | Methods for neural networks (if time allows) | [.pdf]()  | [.pdf]() | --- |
-| 12 | 11.(17/19) | Presentation days!  | ---  | ---  | --- |
+| 11 | 11.(05/10) | Distributed computations | [.pdf]()  | [.pdf]() | --- |
+| 12 | 11.12 | Methods for neural networks (if time allows) | [.pdf]()  | [.pdf]() | --- |
+| 13 | 11.(17/19) | Presentation days!  | ---  | ---  | --- |
 | | | **Part V: Final exam** | | | |
 
 &nbsp;
