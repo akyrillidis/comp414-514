@@ -8,24 +8,24 @@ layout: default
 | # | Date  | Topic  | Notes | Lecture | Notebook  |
 |-|-|-|-|-|-|
 | | | **Part I: Basic gradient methods** | | | |
-| 1 | 08.(25/27) | Intro & Preliminaries  | [.pdf](/schedule/images/chapter1.pdf) | [.pdf](/schedule/images/Lecture 1.pdf) | [.ipynb](/schedule/images/Chapter 1a.ipynb) [.ipynb](/schedule/images/Chapter 1b.ipynb)
-| 2 | 09.(01/03) | Gradient method | [.pdf]()  | [.pdf]() | [.ipynb]() |
-| 3 | 09.(08/10) | Gradient method & Convexity | [.pdf]()  | [.pdf]() | [.ipynb]() |
-| 4 | 09.(15/17) | Conditional gradient (Frank-Wolfe) | [.pdf]()  | [.pdf]() | [.ipynb]() |
+| 1 | 08.25-09.01 | Intro & Preliminaries  | [.pdf](/schedule/images/chapter1.pdf) | [.pdf](/schedule/images/Lecture 1.pdf) | [.ipynb](/schedule/images/Chapter 1a.ipynb) [.ipynb](/schedule/images/Chapter 1b.ipynb)
+| 2 | 09.(03/08) | Gradient method | [.pdf]()  | [.pdf]() | [.ipynb]() |
+| 3 | 09.(10/15) | Gradient method & Convexity | [.pdf]()  | [.pdf]() | [.ipynb]() |
+| 4 | 09.(17/22) | Conditional gradient (Frank-Wolfe) | [.pdf]()  | [.pdf]() | [.ipynb]() |
 | | | (videos will be provided) |  | |  |
 | | | **Part II: Going faster than basic gradient descent** | | | |
-| 5 | 09.(22/24) | Beyond first-order methods | [.pdf]()  | [.pdf]() | [.ipynb]() |
+| 5 | 09.(24/29) | Beyond first-order methods | [.pdf]()  | [.pdf]() | [.ipynb]() |
 | | | (videos will be provided) |  | |  |
-| 6 | 09.29-10.01 | Momemtum acceleration | [.pdf]()  | [.pdf]() | [.ipynb]() |
+| 6 | 10.(01/06) | Momemtum acceleration | [.pdf]()  | [.pdf]() | [.ipynb]() |
 | | | (videos will be provided) |  | |  |
-| 7 | 10.(06/08) | Stochastic motions in gradient descent | [.pdf]()  | [.pdf]() | [.ipynb]() |
+| 7 | 10.(08/13) | Stochastic motions in gradient descent | [.pdf]()  | [.pdf]() | [.ipynb]() |
 | | | **Part III: Provable non-convex optimization** | | | |
-| 8 | 10.(13/15) | Sparse feature selection and recovery | [.pdf]()  | [.pdf]() | [.ipynb]() |
-| 9 | 10.(20/22) | Low-rank recovery | [.pdf]()  | [.pdf]() | [.ipynb]() |
+| 8 | 10.(15/20) | Sparse feature selection and recovery | [.pdf]()  | [.pdf]() | [.ipynb]() |
+| 9 | 10.(22/27) | Low-rank recovery | [.pdf]()  | [.pdf]() | [.ipynb]() |
 | | | **Part IV: Optimization methods in modern ML** | | | |
-| 10 | 10.(27/29) | Landscape properties of general functions | [.pdf]()  | [.pdf]() | --- |
-| 10 | 11.(03/05) | Distributed computations | [.pdf]()  | [.pdf]() | --- |
-| 10 | 11.(10/12) | Methods for neural networks (if time allows) | [.pdf]()  | [.pdf]() | --- |
+| 10 | 10.29-11.03 | Landscape properties of general functions | [.pdf]()  | [.pdf]() | --- |
+| 10 | 11.(05/10) | Distributed computations | [.pdf]()  | [.pdf]() | --- |
+| 10 | 11.12 | Methods for neural networks (if time allows) | [.pdf]()  | [.pdf]() | --- |
 | 12 | 11.(17/19) | Presentation days!  | ---  | ---  | --- |
 | | | **Part V: Final exam** | | | |
 
