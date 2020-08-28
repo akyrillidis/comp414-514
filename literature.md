@@ -28,6 +28,8 @@ layout: default
 
 4. [Simple and Deterministic Matrix Sketching](https://arxiv.org/pdf/1206.0594.pdf)
 
+5. [Provable deterministic leverage score sampling](https://arxiv.org/abs/1404.1530)
+
 5. [Linear convergence of gradient and proximal-gradient methods under the Polyak-Łojasiewicz condition](https://arxiv.org/abs/1608.04636)
 
 6. [Conditional Gradient Algorithms for Rank-One Matrix Approximations with a Sparsity Constraint
