@@ -14,7 +14,7 @@ layout: default
 | 4 | 09.(17/22) | Conditional gradient (Frank-Wolfe) | [.pdf](/schedule/images/chapter4.pdf)  | [.pdf](/schedule/images/Lecture 4.pdf) | [.ipynb](/schedule/images/Chapter 4.ipynb) |
 | | | (videos will be provided) |  | |  |
 | | | **Part II: Going faster than basic gradient descent** | | | |
-| 5 | 09.(24/29) | Beyond first-order methods | [.pdf]()  | [.pdf]() | [.ipynb]() |
+| 5 | 09.(24/29) | Beyond first-order methods | [.pdf](/schedule/images/chapter5.pdf)  | [.pdf](/schedule/images/Lecture 5.pdf) | [.ipynb](/schedule/images/Chapter 5.ipynb) |
 | | | (videos will be provided) |  | |  |
 | 6 | 10.(01/06) | Momemtum acceleration | [.pdf]()  | [.pdf]() | [.ipynb]() |
 | | | (videos will be provided) |  | |  |
