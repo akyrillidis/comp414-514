@@ -18,7 +18,7 @@ layout: default
 | | | (videos will be provided) |  | |  |
 | 6 | 10.01 | Momemtum acceleration | [.pdf](/schedule/images/chapter6.pdf)  | [.pdf](/schedule/images/Lecture 6.pdf) | [.ipynb](/schedule/images/Chapter 6.ipynb) |
 | | | (videos will be provided) |  | |  |
-| 7 | 10.06 | Stochastic motions in gradient descent | [.pdf](/schedule/images/chapter7.pdf)  | [.pdf](/schedule/images/Lecture 7.pdf) | [.ipynb](/schedule/images/Chapter 7.ipynb) |
+| 7 | 10.(06/08) | Stochastic motions in gradient descent | [.pdf](/schedule/images/chapter7.pdf)  | [.pdf](/schedule/images/Lecture 7.pdf) | [.ipynb](/schedule/images/Chapter 7.ipynb) |
 | | | **Part III: Provable non-convex optimization** | | | |
 | 8 | 10.(15/20) | Sparse feature selection and recovery | [.pdf]()  | [.pdf]() | [.ipynb]() |
 | 9 | 10.(22/27) | Low-rank recovery | [.pdf]()  | [.pdf]() | [.ipynb]() |
