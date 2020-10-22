@@ -22,7 +22,8 @@ layout: default
 | | | **Part III: Provable non-convex optimization** | | | |
 | 8 | 10.(13/15/20) | Sparse feature selection and recovery | [.pdf](/schedule/images/Lecture 8 notes.pdf) | [.pdf](/schedule/images/Lecture 8.pdf) | [.ipynb](/schedule/images/Chapter 8.ipynb) |
 |  |  | | (Handwritten notes) |  | |
-| 9 | 10.(20/22/27) | Low-rank recovery | [.pdf]()  | [.pdf]() | [.ipynb]() |
+| 9 | 10.(22/27) | Low-rank recovery | [.pdf](/schedule/images/Lecture 9 notes.pdf) | [.pdf](/schedule/images/Lecture 9.pdf) | [.ipynb](/schedule/images/Chapter 9.ipynb) |
+|  |  | | (Handwritten notes) |  | |
 | | | **Part IV: Optimization methods in modern ML** | | | |
 | 10 | 10.29-11.03 | Landscape properties of general functions | [.pdf]()  | [.pdf]() | --- |
 | 11 | 11.(05/10) | Distributed computations | [.pdf]()  | [.pdf]() | --- |
