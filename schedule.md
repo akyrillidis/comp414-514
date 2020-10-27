@@ -20,7 +20,7 @@ layout: default
 | | | (videos will be provided) |  | |  |
 | 7 | 10.(06/08) | Stochastic motions in gradient descent | [.pdf](/schedule/images/chapter7.pdf)  | [.pdf](/schedule/images/Lecture 7.pdf) | [.ipynb](/schedule/images/Chapter 7.ipynb) |
 | | | **Part III: Provable non-convex optimization** | | | |
-| 8 | 10.(13/15/20) | Sparse feature selection and recovery | [.pdf](/schedule/images/Lecture 8 notes.pdf) / [.pdf](/schedule/images/chapter8.pdf) | [.pdf](/schedule/images/Lecture 8.pdf) | [.ipynb](/schedule/images/Chapter 8.ipynb) |
+| 8 | 10.(13/15/20) | Sparse feature selection and recovery | [.pdf](/schedule/images/Lecture 8 notes.pdf) / [.pdf]() | [.pdf](/schedule/images/Lecture 8.pdf) | [.ipynb](/schedule/images/Chapter 8.ipynb) |
 |  |  | | (Handwritten / last year's) |  | |
 | 9 | 10.(22/27) | Low-rank recovery | [.pdf](/schedule/images/Lecture 9 notes.pdf) | [.pdf](/schedule/images/Lecture 9.pdf) | [.ipynb](/schedule/images/Chapter 9.ipynb) |
 |  |  | | (Handwritten notes) |  | |
