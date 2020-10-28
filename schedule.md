@@ -27,7 +27,7 @@ layout: default
 | | | **Part IV: Optimization methods in modern ML** | | | |
 | 10 | 10.29-11.03 | Landscape properties of general functions | ---  | [.pdf](/schedule/images/Lecture 10.pdf) | --- |
 | 11 | 11.(05/10) | Distributed computations | [.pdf]()  | [.pdf]() | --- |
-| 12 | 11.12 | Methods for neural networks (if time allows) | [.pdf]()  | [.pdf]() | --- |
+| 12 | 11.12 | Methods for neural networks (tentantive) | [.pdf]()  | [.pdf]() | --- |
 | 13 | 11.(17/19) | Presentation days!  | ---  | ---  | --- |
 | | | **Part V: Final exam** | | | |
 
