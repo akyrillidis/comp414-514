@@ -25,8 +25,8 @@ layout: default
 | 9 | 10.(22/27) | Low-rank recovery | [.pdf](/schedule/images/Lecture 9 notes.pdf) / [.pdf]() | [.pdf](/schedule/images/Lecture 9.pdf) | [.ipynb](/schedule/images/Chapter 9.ipynb) |
 |  |  | | (Handwritten / last year's) |  | |
 | | | **Part IV: Optimization methods in modern ML** | | | |
-| 10 | 10.29-11.03 | Landscape properties of general functions | ---  | [.pdf](/schedule/images/Lecture 10.pdf) | --- |
-| 11 | 11.(10/12) | Distributed computations with GD | --- | [.pdf](/schedule/images/Lecture 11.pdf) | --- |
+| 10 | 10.29-11.03 | Landscape properties of general functions | [.pdf](/schedule/images/Lecture 10 notes.pdf)  | [.pdf](/schedule/images/Lecture 10.pdf) | --- |
+| 11 | 11.(10/12) | Distributed computations with GD | [.pdf](/schedule/images/Lecture 11 notes.pdf) | [.pdf](/schedule/images/Lecture 11.pdf) | --- |
 | 12 | 11.(17/19) | Presentation days!  | ---  | ---  | --- |
 | | | **Part V: Final exam** | | | |
 
