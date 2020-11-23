@@ -4,7 +4,7 @@ layout: default
 
 &nbsp;
 
-[Proceedings 2019 - Part 1](/schedule/images/Proceedings2019_Part1.pdf)       [Proceedings 2019 - Part 2](/schedule/images/Proceedings2019_Part2.pdf)
+[Proceedings 2019 - Part 1](/schedule/images/Proceedings2019_Part1.pdf) &emsp;&emsp;&emsp;   [Proceedings 2019 - Part 2](/schedule/images/Proceedings2019_Part2.pdf)
 
 &nbsp;
 
