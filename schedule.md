@@ -20,13 +20,13 @@ layout: default
 | | | (videos will be provided) |  | |  |
 | 7 | 10.(06/08) | Stochastic motions in gradient descent | [.pdf](/schedule/images/chapter7.pdf)  | [.pdf](/schedule/images/Lecture 7.pdf) | [.ipynb](/schedule/images/Chapter 7.ipynb) |
 | | | **Part III: Provable non-convex optimization** | | | |
-| 8 | 10.(13/15/20) | Sparse feature selection and recovery | [.pdf](/schedule/images/Lecture 8 notes.pdf) / [.pdf]() | [.pdf](/schedule/images/Lecture 8.pdf) | [.ipynb](/schedule/images/Chapter 8.ipynb) |
-|  |  | | (Handwritten / last year's) |  | |
-| 9 | 10.(22/27) | Low-rank recovery | [.pdf](/schedule/images/Lecture 9 notes.pdf) / [.pdf]() | [.pdf](/schedule/images/Lecture 9.pdf) | [.ipynb](/schedule/images/Chapter 9.ipynb) |
-|  |  | | (Handwritten / last year's) |  | |
+| 8 | 10.(13/15/20) | Sparse feature selection and recovery | [.pdf](/schedule/images/Lecture 8 notes.pdf) / [.pdf](/schedule/images/chapter8.pdf) | [.pdf](/schedule/images/Lecture 8.pdf) | [.ipynb](/schedule/images/Chapter 8.ipynb) |
+|  |  | | (Handwritten / Latex) |  | |
+| 9 | 10.(22/27) | Low-rank recovery | [.pdf](/schedule/images/Lecture 9 notes.pdf) / [.pdf](/schedule/images/chapter9.pdf) | [.pdf](/schedule/images/Lecture 9.pdf) | [.ipynb](/schedule/images/Chapter 9.ipynb) |
+|  |  | | (Handwritten / Latex) |  | |
 | | | **Part IV: Optimization methods in modern ML** | | | |
-| 10 | 10.29-11.03 | Landscape properties of general functions | [.pdf](/schedule/images/Lecture 10 notes.pdf)  | [.pdf](/schedule/images/Lecture 10.pdf) | --- |
-| 11 | 11.(10/12) | Distributed computations with GD | [.pdf](/schedule/images/Lecture 11 notes.pdf) | [.pdf](/schedule/images/Lecture 11.pdf) | --- |
+| 10 | 10.29-11.03 | Landscape properties of general functions | [.pdf](/schedule/images/chapter10.pdf)  | [.pdf](/schedule/images/Lecture 10.pdf) | --- |
+| 11 | 11.(10/12) | Distributed computations with GD | [.pdf](/schedule/images/chapter11.pdf) | [.pdf](/schedule/images/Lecture 11.pdf) | --- |
 | 12 | 11.(17/19) | Presentation days!  | ---  | ---  | --- |
 | | | **Part V: Final exam** | | | |
 
