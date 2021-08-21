@@ -20,15 +20,15 @@ layout: default
 | | | (videos will be provided) |  | |  |
 | 7 | 10.(05/07) | Stochastic motions in gradient descent | [.pdf](/schedule/images/chapter7.pdf)  | [.pdf](/schedule/images/Lecture 7.pdf) | [.ipynb](/schedule/images/Chapter 7.ipynb) |
 | | | **Part III: Provable non-convex optimization** | | | |
-| 8 | 10.(12/14/19) | Sparse feature selection and recovery | [.pdf](/schedule/images/Lecture 8 notes.pdf) / [.pdf](/schedule/images/chapter8.pdf) | [.pdf](/schedule/images/Lecture 8.pdf) | [.ipynb](/schedule/images/Chapter 8.ipynb) |
+| 8 | 10.(14/19/21) | Sparse feature selection and recovery | [.pdf](/schedule/images/Lecture 8 notes.pdf) / [.pdf](/schedule/images/chapter8.pdf) | [.pdf](/schedule/images/Lecture 8.pdf) | [.ipynb](/schedule/images/Chapter 8.ipynb) |
 |  |  | | (Handwritten / Latex) |  | |
-| 9 | 10.(21/26) | Low-rank recovery | [.pdf](/schedule/images/Lecture 9 notes.pdf) / [.pdf](/schedule/images/chapter9.pdf) | [.pdf](/schedule/images/Lecture 9.pdf) | [.ipynb](/schedule/images/Chapter 9.ipynb) |
+| 9 | 10.(26/28) | Low-rank recovery | [.pdf](/schedule/images/Lecture 9 notes.pdf) / [.pdf](/schedule/images/chapter9.pdf) | [.pdf](/schedule/images/Lecture 9.pdf) | [.ipynb](/schedule/images/Chapter 9.ipynb) |
 |  |  | | (Handwritten / Latex) |  | |
 | | | **Part IV: Optimization methods in modern ML** | | | |
-| 10 | 10.28-11.02 | Landscape properties of general functions | [.pdf](/schedule/images/chapter10.pdf)  | [.pdf](/schedule/images/Lecture 10.pdf) | --- |
-| 11 | 11.(04/09) | Distributed computations with GD | [.pdf](/schedule/images/chapter11.pdf) | [.pdf](/schedule/images/Lecture 11.pdf) | --- |
-| 12 | 12.(11/16) | Presentation days!  | ---  | ---  | --- |
-| 13 | 13.(18/23) | Presentation days!  | ---  | ---  | --- |
+| 10 | 11.(02/04) | Landscape properties of general functions | [.pdf](/schedule/images/chapter10.pdf)  | [.pdf](/schedule/images/Lecture 10.pdf) | --- |
+| 11 | 11.(09/11) | Distributed computations with GD | [.pdf](/schedule/images/chapter11.pdf) | [.pdf](/schedule/images/Lecture 11.pdf) | --- |
+| 12 | 12.(16/18) | Presentation days!  | ---  | ---  | --- |
+| 13 | 13.(23/25) | Presentation days!  | ---  | ---  | --- |
 | | | **Part V: Final exam** | | | |
 
 &nbsp;
