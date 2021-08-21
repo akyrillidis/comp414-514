@@ -27,8 +27,9 @@ layout: default
 | | | **Part IV: Optimization methods in modern ML** | | | |
 | 10 | 11.(02/04) | Landscape properties of general functions | [.pdf](/schedule/images/chapter10.pdf)  | [.pdf](/schedule/images/Lecture 10.pdf) | --- |
 | 11 | 11.(09/11) | Distributed computations with GD | [.pdf](/schedule/images/chapter11.pdf) | [.pdf](/schedule/images/Lecture 11.pdf) | --- |
-| 12 | 12.(16/18) | Presentation days!  | ---  | ---  | --- |
-| 13 | 13.(23/25) | Presentation days!  | ---  | ---  | --- |
+| 12 | 11.(16/18) | Presentation days!  | ---  | ---  | --- |
+| 13 | 11.(23/30) | Presentation days!  | ---  | ---  | --- |
+| 14 | 12.02 | Presentation days!  | ---  | ---  | --- |
 | | | **Part V: Final exam** | | | |
 
 &nbsp;
