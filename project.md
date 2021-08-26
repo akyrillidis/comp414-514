@@ -6,8 +6,6 @@ layout: default
 
 [Proceedings 2019 - Part 1](/schedule/images/Proceedings2019_Part1.pdf) &emsp;&emsp;&emsp;   [Proceedings 2019 - Part 2](/schedule/images/Proceedings2019_Part2.pdf)
 
-&nbsp;
-
 [Proceedings 2020 - Part 1](/schedule/images/Proceedings2020_Part1.pdf) &emsp;&emsp;&emsp;   [Proceedings 2020 - Part 2](/schedule/images/Proceedings2020_Part2.pdf)
 
 &nbsp;
