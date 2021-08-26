@@ -8,6 +8,10 @@ layout: default
 
 &nbsp;
 
+[Proceedings 2020 - Part 1](/schedule/images/Proceedings2020_Part1.pdf) &emsp;&emsp;&emsp;   [Proceedings 2020 - Part 2](/schedule/images/Proceedings2020_Part2.pdf)
+
+&nbsp;
+
 The course project can be categorized as a literature review, as original research, or as a literature review that ends up as original research (there is flexibility to that).
 
 - **Literature review.** This includes depth review and analysis of a paper (to be selected from a list of papers, provided by the instructor or by you, after instroctor's approval). The review should provide an in-depth summary, exposition and discussion of the paper (which will often include reading other related papers on that subject).
