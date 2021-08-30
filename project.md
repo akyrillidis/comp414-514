@@ -55,6 +55,17 @@ The course project can be categorized as a literature review, as original resear
 
 **Literature reviews**
 
+- Recent algorithmic advances on explainable AI + Generative Additve Models (+ alternative approaches)
+  - [Neural Additive Models: Interpretable Machine Learning with Neural Nets](https://arxiv.org/pdf/2004.13912.pdf)
+  - [Interpretable Learning-to-Rank with Generalized Additive Models](https://arxiv.org/pdf/2005.02553.pdf)
+  - [Distributed Learning of Neural Networks using Independent Subnet Training](https://arxiv.org/pdf/1910.02120.pdf)
+
+- Schedules in deep learning: from learning rates and momentum to quantization
+  - [CPT: Efficient Deep Neural Network Training via Cyclic Precision](https://arxiv.org/pdf/2101.09868.pdf) - and references there in.
+  - [Demon: Improved Neural Network Training with Momentum Decay](https://arxiv.org/pdf/1910.04952.pdf)
+  - [REX: Revisiting Budgeted Training with an Improved Schedule](https://arxiv.org/pdf/2107.04197.pdf)
+  - [Super-Acceleration with Cyclical Step-sizes](https://arxiv.org/pdf/2106.09687.pdf)
+
 - The use of momentum in stochastic methods
   - [Convergence of a Stochastic Gradient Method with Momentum for Non-Smooth Non-Convex Optimization](https://proceedings.icml.cc/static/paper_files/icml/2020/4205-Paper.pdf)
   - [On the convergence of the Stochastic Heavy Ball Method](https://arxiv.org/pdf/2006.07867.pdf)
@@ -64,8 +75,6 @@ The course project can be categorized as a literature review, as original resear
   - [Revisiting Frank-Wolfe: Projection-Free Sparse Convex Optimization](http://m8j.net/math/revisited-FW.pdf)
   - (More papers to be announced)
   
-- Recent algorithmic advances on explainable AI
-  - [Neural Additive Models: Interpretable Machine Learning with Neural Nets](https://arxiv.org/pdf/2004.13912.pdf)
 
 - Derivative free optimization in ML
   - [A Theoretical and Empirical Comparison of Gradient Approximations in Derivative-Free Optimization](https://arxiv.org/pdf/1905.01332.pdf)
