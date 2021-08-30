@@ -66,9 +66,10 @@ The course project can be categorized as a literature review, as original resear
   - [REX: Revisiting Budgeted Training with an Improved Schedule](https://arxiv.org/pdf/2107.04197.pdf)
   - [Super-Acceleration with Cyclical Step-sizes](https://arxiv.org/pdf/2106.09687.pdf)
 
-- Deep randomized ML models
-  - 
-  - 
+- Deep randomized ML models: Kitchen Sinks, Random weights and pruning
+  - [Weighted Sums of Random Kitchen Sinks: Replacing minimization with randomization in learning](https://papers.nips.cc/paper/2008/file/0efe32849d230d7f53049ddc4a4b0c60-Paper.pdf)
+  - [What's Hidden in a Randomly Weighted Neural Network?](https://arxiv.org/pdf/1911.13299.pdf)
+  - [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/pdf/1803.03635.pdf)
 
 - The use of momentum in stochastic methods
   - [Convergence of a Stochastic Gradient Method with Momentum for Non-Smooth Non-Convex Optimization](https://proceedings.icml.cc/static/paper_files/icml/2020/4205-Paper.pdf)
@@ -79,6 +80,9 @@ The course project can be categorized as a literature review, as original resear
   - [Revisiting Frank-Wolfe: Projection-Free Sparse Convex Optimization](http://m8j.net/math/revisited-FW.pdf)
   - (More papers to be announced)
   
+- Mixture of experts
+  - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/pdf/1701.06538.pdf)
+  - [Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity](https://arxiv.org/pdf/2101.03961.pdf)
 
 - Derivative free optimization in ML
   - [A Theoretical and Empirical Comparison of Gradient Approximations in Derivative-Free Optimization](https://arxiv.org/pdf/1905.01332.pdf)
