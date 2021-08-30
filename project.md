@@ -30,21 +30,6 @@ The course project can be categorized as a literature review, as original resear
 
 **Project ideas**
 
-- Contrastive learning
-  - [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/pdf/2002.05709.pdf)
-  - [Deep contextualized word representations](https://arxiv.org/pdf/1802.05365.pdf)
-  - [Supervised constrastive learning](https://arxiv.org/pdf/2004.11362.pdf)
-  - [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/pdf/1911.05722.pdf)
-  - [Improved Baselines with Momentum Contrastive Learning](https://arxiv.org/pdf/2003.04297.pdf)
-
-- Ensemble training and higher variance models
-  - [Rethinking Bias-Variance Trade-off for Generalization of Neural Networks](https://arxiv.org/pdf/2002.11328.pdf)
-  - [More Data Can Hurt for Linear Regression: Sample-wise Double Descent](https://arxiv.org/pdf/1912.07242.pdf)
-
-- Acceleration in low-rank factorization problems
-  - [Accelerated Factored Gradient Descent for Low-Rank Matrix Factorization](http://proceedings.mlr.press/v108/zhou20b/zhou20b.pdf)
-  - [On the optimization of deep networks - implicit acceleration by overparameterization](https://arxiv.org/pdf/1802.06509.pdf)
-
 - Theory on simplistic ResNet models
   - [On the Global Convergence of Training Deep Linear ResNets](https://openreview.net/pdf?id=HJxEhREKDH)
   - [Identity Matters in Deep Learning](https://arxiv.org/pdf/1611.04231.pdf)
@@ -52,6 +37,13 @@ The course project can be categorized as a literature review, as original resear
 - Practical algorithms for SDPs
   - [Smoothed analysis for low-rank solutions to SDPs in quadratic penalty form](https://arxiv.org/pdf/1803.00186.pdf)
   - [The mixing method - low-rank coordinate descent for semidefinite programming with diagonal constraints](https://arxiv.org/pdf/1706.00476.pdf)
+
+- Matrix completion for lower communication footprint
+  - [Pufferfish: Communication-efficient Models At No Extra Cost](https://proceedings.mlsys.org/paper/2021/file/84d9ee44e457ddef7f2c4f25dc8fa865-Paper.pdf)
+  - [PowerSGD: Practical Low-Rank Gradient Compression for Distributed Optimization](https://arxiv.org/pdf/1905.13727.pdf)
+
+- True alternating gradient descent for matrix factorization
+  - [Near-optimal Local Convergence of Alternating Gradient Descent-Ascent for Minimax Optimization](https://arxiv.org/pdf/2102.09468.pdf)
 
 **Literature reviews**
 
@@ -84,28 +76,25 @@ The course project can be categorized as a literature review, as original resear
   - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/pdf/1701.06538.pdf)
   - [Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity](https://arxiv.org/pdf/2101.03961.pdf)
 
-- Derivative free optimization in ML
-  - [A Theoretical and Empirical Comparison of Gradient Approximations in Derivative-Free Optimization](https://arxiv.org/pdf/1905.01332.pdf)
-  - [An Accelerated DFO Algorithm for Finite-sum Convex Functions](https://arxiv.org/pdf/2007.03311.pdf)
-  
-- Different theory techniques for shallow neural networks
-  - [Globally optimal gradient descent for a convnet with Gaussian inputs](https://arxiv.org/pdf/1702.07966.pdf)
-  - [Learning ReLU Networks via alternating minimization](https://arxiv.org/pdf/1806.07863.pdf)
-  - [Learning ReLUs via Gradient Descent](https://arxiv.org/pdf/1705.04591.pdf)
+- Neural network training and convex optimization
+  - [Convex Optimization for Shallow Neural Networks](https://proceedings.allerton.csl.illinois.edu/media/files/0140.pdf)
+  - [Global Convergence of Frank Wolfe on One Hidden Layer Networks](https://arxiv.org/pdf/2002.02208.pdf)
+  - [Revealing the Structure of Deep Neural Networks via Convex Duality](https://arxiv.org/pdf/2002.09773.pdf)
 
+- Two regimes in neural network training
+  - [Gradient Descent on Neural Networks Typically Occurs at the Edge of Stability](https://arxiv.org/pdf/2103.00065.pdf)
+  - [Super-Convergence with an Unstable Learning Rate](https://arxiv.org/pdf/2102.10734.pdf)
+  - [The large learning rate phase of deep learning: the catapult mechanism](https://arxiv.org/pdf/2003.02218.pdf)
+  - [The Two Regimes of Deep Network Training](https://arxiv.org/pdf/2002.10376.pdf)
+
+- Coresets in ML
+  - [GRAD-MATCH: A Gradient Matching Based Data Subset Selection for Efficient Learning](https://arxiv.org/pdf/2103.00123.pdf)
+  - [Coresets for Data-efficient Training of Machine Learning Models](https://arxiv.org/pdf/1906.01827.pdf)
+  - [Coresets for robust training of neural networks against noisy labels](https://arxiv.org/pdf/2011.07451.pdf)
+  
 - Acceleration in non-convex optimization
   - [Accelerated methods for non-convex optimization](https://arxiv.org/pdf/1611.00756.pdf)
   - (More papers to be announced)
-  
-- Discrete optimizers as layers in neural networks
-  - [SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver](https://arxiv.org/pdf/1905.12149.pdf)
-  - [Differentiation of Blackbox Combinatorial Solvers](https://openreview.net/pdf?id=BkevoJSYPB)
-  - (More papers to be announced)
-  
-- Second-order optimization methods in ML
-  - [Deep learning via Hessian-free optimization](http://www.cs.toronto.edu/~jmartens/docs/Deep_HessianFree.pdf)
-  - [Stochastic Block BFGS: Squeezing More Curvature out of Data](https://arxiv.org/pdf/1603.09649.pdf)
-  - [RSN: Randomized Subspace Newton](https://arxiv.org/pdf/1905.10874.pdf)
-  
+      
 &nbsp;
 &nbsp;
