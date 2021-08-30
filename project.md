@@ -66,6 +66,10 @@ The course project can be categorized as a literature review, as original resear
   - [REX: Revisiting Budgeted Training with an Improved Schedule](https://arxiv.org/pdf/2107.04197.pdf)
   - [Super-Acceleration with Cyclical Step-sizes](https://arxiv.org/pdf/2106.09687.pdf)
 
+- Deep randomized ML models
+  - 
+  - 
+
 - The use of momentum in stochastic methods
   - [Convergence of a Stochastic Gradient Method with Momentum for Non-Smooth Non-Convex Optimization](https://proceedings.icml.cc/static/paper_files/icml/2020/4205-Paper.pdf)
   - [On the convergence of the Stochastic Heavy Ball Method](https://arxiv.org/pdf/2006.07867.pdf)
