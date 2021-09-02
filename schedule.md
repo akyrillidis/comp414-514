@@ -9,7 +9,7 @@ layout: default
 |-|-|-|-|-|-|
 | | | **Part I: Basic gradient methods** | | | |
 | 1 | 08.26-08.31 | Intro & Preliminaries  | [.pdf](/schedule/images/chapter1.pdf) | [.pdf](/schedule/images/Lecture 1.pdf) | [.ipynb](/schedule/images/Chapter 1a.ipynb) [.ipynb](/schedule/images/Chapter 1b.ipynb)
-| 2 | 09.(02/07) | Gradient method | [.pdf]()  | [.pdf]() | [.ipynb]() |
+| 2 | 09.(02/07) | Gradient method | [.pdf](/schedule/images/chapter2.pdf)  | [.pdf](/schedule/images/Lecture 2.pdf) | [.ipynb](/schedule/images/Chapter 2.ipynb) |
 | 3 | 09.(09/14) | Gradient method & Convexity | [.pdf]()  | [.pdf]() | [.ipynb]() |
 | 4 | 09.(16/21) | Conditional gradient (Frank-Wolfe) | [.pdf]()  | [.pdf]() | [.ipynb]() |
 | | | (videos will be provided) |  | |  |
