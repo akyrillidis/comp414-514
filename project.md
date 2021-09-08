@@ -63,10 +63,10 @@ The course project can be categorized as a literature review, as original resear
   - [What's Hidden in a Randomly Weighted Neural Network?](https://arxiv.org/pdf/1911.13299.pdf)
   - [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/pdf/1803.03635.pdf)
 
-- The use of momentum in stochastic methods
-  - [Convergence of a Stochastic Gradient Method with Momentum for Non-Smooth Non-Convex Optimization](https://proceedings.icml.cc/static/paper_files/icml/2020/4205-Paper.pdf)
-  - [On the convergence of the Stochastic Heavy Ball Method](https://arxiv.org/pdf/2006.07867.pdf)
-  - [On the Convergence of Nesterov's Accelerated Gradient Method in Stochastic Settings](https://arxiv.org/pdf/2002.12414.pdf)
+~~- The use of momentum in stochastic methods~~
+  ~~- [Convergence of a Stochastic Gradient Method with Momentum for Non-Smooth Non-Convex Optimization](https://proceedings.icml.cc/static/paper_files/icml/2020/4205-Paper.pdf)~~
+  ~~- [On the convergence of the Stochastic Heavy Ball Method](https://arxiv.org/pdf/2006.07867.pdf)~~
+  ~~- [On the Convergence of Nesterov's Accelerated Gradient Method in Stochastic Settings](https://arxiv.org/pdf/2002.12414.pdf)~~
 
 - Literature review of recent developments on Frank-Wolfe methods
   - [Revisiting Frank-Wolfe: Projection-Free Sparse Convex Optimization](http://m8j.net/math/revisited-FW.pdf)
