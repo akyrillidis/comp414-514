@@ -87,10 +87,10 @@ The course project can be categorized as a literature review, as original resear
   - [The large learning rate phase of deep learning: the catapult mechanism](https://arxiv.org/pdf/2003.02218.pdf)
   - [The Two Regimes of Deep Network Training](https://arxiv.org/pdf/2002.10376.pdf)
 
-- Coresets in ML
-  - [GRAD-MATCH: A Gradient Matching Based Data Subset Selection for Efficient Learning](https://arxiv.org/pdf/2103.00123.pdf)
-  - [Coresets for Data-efficient Training of Machine Learning Models](https://arxiv.org/pdf/1906.01827.pdf)
-  - [Coresets for robust training of neural networks against noisy labels](https://arxiv.org/pdf/2011.07451.pdf)
+~~- Coresets in ML~~
+  - ~~[GRAD-MATCH: A Gradient Matching Based Data Subset Selection for Efficient Learning](https://arxiv.org/pdf/2103.00123.pdf)~~
+  - ~~[Coresets for Data-efficient Training of Machine Learning Models](https://arxiv.org/pdf/1906.01827.pdf)~~
+  - ~~[Coresets for robust training of neural networks against noisy labels](https://arxiv.org/pdf/2011.07451.pdf)~~
   
 - Acceleration in non-convex optimization
   - [Accelerated methods for non-convex optimization](https://arxiv.org/pdf/1611.00756.pdf)
