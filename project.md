@@ -58,15 +58,17 @@ The course project can be categorized as a literature review, as original resear
   - [REX: Revisiting Budgeted Training with an Improved Schedule](https://arxiv.org/pdf/2107.04197.pdf)
   - [Super-Acceleration with Cyclical Step-sizes](https://arxiv.org/pdf/2106.09687.pdf)
 
-- Deep randomized ML models: Kitchen Sinks, Random weights and pruning
-  - [Weighted Sums of Random Kitchen Sinks: Replacing minimization with randomization in learning](https://papers.nips.cc/paper/2008/file/0efe32849d230d7f53049ddc4a4b0c60-Paper.pdf)
-  - [What's Hidden in a Randomly Weighted Neural Network?](https://arxiv.org/pdf/1911.13299.pdf)
-  - [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/pdf/1803.03635.pdf)
+- ~~Deep randomized ML models: Kitchen Sinks, Random weights and pruning~~
+  - ~~[Weighted Sums of Random Kitchen Sinks: Replacing minimization with randomization in learning](https://papers.nips.cc/paper/2008/file/0efe32849d230d7f53049ddc4a4b0c60-Paper.pdf)~~
+  - ~~[What's Hidden in a Randomly Weighted Neural Network?](https://arxiv.org/pdf/1911.13299.pdf)~~
+  - ~~[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/pdf/1803.03635.pdf)~~
 
-~~- The use of momentum in stochastic methods~~
+- ~~The use of momentum in stochastic methods~~
   - ~~[Convergence of a Stochastic Gradient Method with Momentum for Non-Smooth Non-Convex Optimization](https://proceedings.icml.cc/static/paper_files/icml/2020/4205-Paper.pdf)~~
   - ~~[On the convergence of the Stochastic Heavy Ball Method](https://arxiv.org/pdf/2006.07867.pdf)~~
   - ~~[On the Convergence of Nesterov's Accelerated Gradient Method in Stochastic Settings](https://arxiv.org/pdf/2002.12414.pdf)~~
+
+- ~~Literature review on the Lottery Ticket Hypothesis phenomenon~~
 
 - Literature review of recent developments on Frank-Wolfe methods
   - [Revisiting Frank-Wolfe: Projection-Free Sparse Convex Optimization](http://m8j.net/math/revisited-FW.pdf)
@@ -87,14 +89,14 @@ The course project can be categorized as a literature review, as original resear
   - [The large learning rate phase of deep learning: the catapult mechanism](https://arxiv.org/pdf/2003.02218.pdf)
   - [The Two Regimes of Deep Network Training](https://arxiv.org/pdf/2002.10376.pdf)
 
-~~- Coresets in ML~~
+- ~~Coresets in ML~~
   - ~~[GRAD-MATCH: A Gradient Matching Based Data Subset Selection for Efficient Learning](https://arxiv.org/pdf/2103.00123.pdf)~~
   - ~~[Coresets for Data-efficient Training of Machine Learning Models](https://arxiv.org/pdf/1906.01827.pdf)~~
   - ~~[Coresets for robust training of neural networks against noisy labels](https://arxiv.org/pdf/2011.07451.pdf)~~
   
-- Acceleration in non-convex optimization
-  - [Accelerated methods for non-convex optimization](https://arxiv.org/pdf/1611.00756.pdf)
-  - (More papers to be announced)
+- ~~Acceleration in non-convex optimization~~
+  - ~~[Accelerated methods for non-convex optimization](https://arxiv.org/pdf/1611.00756.pdf)~~
+  - ~~(More papers to be announced)~~
       
 &nbsp;
 &nbsp;
