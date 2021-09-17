@@ -96,7 +96,8 @@ The course project can be categorized as a literature review, as original resear
   
 - ~~Acceleration in non-convex optimization~~
   - ~~[Accelerated methods for non-convex optimization](https://arxiv.org/pdf/1611.00756.pdf)~~
-  - ~~(More papers to be announced)~~
+  - ~~[Fast quantum state reconstruction via accelerated non-convex programming](https://arxiv.org/pdf/2104.07006.pdf)~~
+  - ~~[A Modular Analysis of Provable Acceleration via Polyak’s Momentum: Training a Wide ReLU Network and a Deep Linear Network](http://proceedings.mlr.press/v139/wang21n/wang21n.pdf)~~
       
 &nbsp;
 &nbsp;
