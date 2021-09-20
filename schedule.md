@@ -11,8 +11,7 @@ layout: default
 | 1 | 08.(26/31) | Intro & Preliminaries  | [.pdf](/schedule/images/chapter1.pdf) | [.pdf](/schedule/images/Lecture 1.pdf) | [.ipynb](/schedule/images/Chapter 1a.ipynb) [.ipynb](/schedule/images/Chapter 1b.ipynb)
 | 2 | 09.(02/07) | Gradient method | [.pdf](/schedule/images/chapter2.pdf)  | [.pdf](/schedule/images/Lecture 2.pdf) | [.ipynb](/schedule/images/Chapter 2.ipynb) |
 | 3 | 09.(09/16) | Gradient method & Convexity | [.pdf](/schedule/images/chapter3.pdf)  | [.pdf](/schedule/images/Lecture 3.pdf) | [.ipynb](/schedule/images/Chapter 3.ipynb) |
-| 4 | 09.(21/23) | Conditional gradient (Frank-Wolfe) | [.pdf]()  | [.pdf]() | [.ipynb]() |
-| | | (videos will be provided) |  | |  |
+| 4 | 09.(21/23)  | Conditional gradient (Frank-Wolfe) | [.pdf](/schedule/images/chapter4.pdf)  | [.pdf](/schedule/images/Lecture 4.pdf) | [.ipynb](/schedule/images/Chapter 4.ipynb) |
 | | | **Part II: Going faster than basic gradient descent** | | | |
 | 5 | 09.(28/30) | Beyond first-order methods | [.pdf]()  | [.pdf]() | [.ipynb]() |
 | | | (videos will be provided) |  | |  |
