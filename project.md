@@ -47,16 +47,16 @@ The course project can be categorized as a literature review, as original resear
 
 **Literature reviews**
 
-- Recent algorithmic advances on explainable AI + Generative Additve Models (+ alternative approaches)
-  - [Neural Additive Models: Interpretable Machine Learning with Neural Nets](https://arxiv.org/pdf/2004.13912.pdf)
-  - [Interpretable Learning-to-Rank with Generalized Additive Models](https://arxiv.org/pdf/2005.02553.pdf)
-  - [Distributed Learning of Neural Networks using Independent Subnet Training](https://arxiv.org/pdf/1910.02120.pdf)
+- ~~Recent algorithmic advances on explainable AI + Generative Additve Models (+ alternative approaches)~~
+  - ~~[Neural Additive Models: Interpretable Machine Learning with Neural Nets](https://arxiv.org/pdf/2004.13912.pdf)~~
+  - ~~[Interpretable Learning-to-Rank with Generalized Additive Models](https://arxiv.org/pdf/2005.02553.pdf)~~
+  - ~~[Distributed Learning of Neural Networks using Independent Subnet Training](https://arxiv.org/pdf/1910.02120.pdf)~~
 
-- Schedules in deep learning: from learning rates and momentum to quantization
-  - [CPT: Efficient Deep Neural Network Training via Cyclic Precision](https://arxiv.org/pdf/2101.09868.pdf) - and references there in.
-  - [Demon: Improved Neural Network Training with Momentum Decay](https://arxiv.org/pdf/1910.04952.pdf)
-  - [REX: Revisiting Budgeted Training with an Improved Schedule](https://arxiv.org/pdf/2107.04197.pdf)
-  - [Super-Acceleration with Cyclical Step-sizes](https://arxiv.org/pdf/2106.09687.pdf)
+- ~~Schedules in deep learning: from learning rates and momentum to quantization~~
+  - ~~[CPT: Efficient Deep Neural Network Training via Cyclic Precision](https://arxiv.org/pdf/2101.09868.pdf) - and references there in.~~
+  - ~~[Demon: Improved Neural Network Training with Momentum Decay](https://arxiv.org/pdf/1910.04952.pdf)~~
+  - ~~[REX: Revisiting Budgeted Training with an Improved Schedule](https://arxiv.org/pdf/2107.04197.pdf)~~
+  - ~~[Super-Acceleration with Cyclical Step-sizes](https://arxiv.org/pdf/2106.09687.pdf)~~
 
 - ~~Deep randomized ML models: Kitchen Sinks, Random weights and pruning~~
   - ~~[Weighted Sums of Random Kitchen Sinks: Replacing minimization with randomization in learning](https://papers.nips.cc/paper/2008/file/0efe32849d230d7f53049ddc4a4b0c60-Paper.pdf)~~
@@ -78,10 +78,10 @@ The course project can be categorized as a literature review, as original resear
   - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/pdf/1701.06538.pdf)
   - [Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity](https://arxiv.org/pdf/2101.03961.pdf)
 
-- Neural network training and convex optimization
-  - [Convex Optimization for Shallow Neural Networks](https://proceedings.allerton.csl.illinois.edu/media/files/0140.pdf)
-  - [Global Convergence of Frank Wolfe on One Hidden Layer Networks](https://arxiv.org/pdf/2002.02208.pdf)
-  - [Revealing the Structure of Deep Neural Networks via Convex Duality](https://arxiv.org/pdf/2002.09773.pdf)
+- ~~Neural network training and convex optimization~~
+  - ~~[Convex Optimization for Shallow Neural Networks](https://proceedings.allerton.csl.illinois.edu/media/files/0140.pdf)~~
+  - ~~[Global Convergence of Frank Wolfe on One Hidden Layer Networks](https://arxiv.org/pdf/2002.02208.pdf)~~
+  - ~~[Revealing the Structure of Deep Neural Networks via Convex Duality](https://arxiv.org/pdf/2002.09773.pdf)~~
 
 - Two regimes in neural network training
   - [Gradient Descent on Neural Networks Typically Occurs at the Edge of Stability](https://arxiv.org/pdf/2103.00065.pdf)
