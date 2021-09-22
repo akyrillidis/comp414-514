@@ -74,20 +74,20 @@ The course project can be categorized as a literature review, as original resear
   - [Revisiting Frank-Wolfe: Projection-Free Sparse Convex Optimization](http://m8j.net/math/revisited-FW.pdf)
   - (More papers to be announced)
   
-- Mixture of experts
-  - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/pdf/1701.06538.pdf)
-  - [Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity](https://arxiv.org/pdf/2101.03961.pdf)
+- ~~Mixture of experts~~
+  - ~~[Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/pdf/1701.06538.pdf)~~
+  - ~~[Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity](https://arxiv.org/pdf/2101.03961.pdf)~~
 
 - ~~Neural network training and convex optimization~~
   - ~~[Convex Optimization for Shallow Neural Networks](https://proceedings.allerton.csl.illinois.edu/media/files/0140.pdf)~~
   - ~~[Global Convergence of Frank Wolfe on One Hidden Layer Networks](https://arxiv.org/pdf/2002.02208.pdf)~~
   - ~~[Revealing the Structure of Deep Neural Networks via Convex Duality](https://arxiv.org/pdf/2002.09773.pdf)~~
 
-- Two regimes in neural network training
-  - [Gradient Descent on Neural Networks Typically Occurs at the Edge of Stability](https://arxiv.org/pdf/2103.00065.pdf)
-  - [Super-Convergence with an Unstable Learning Rate](https://arxiv.org/pdf/2102.10734.pdf)
-  - [The large learning rate phase of deep learning: the catapult mechanism](https://arxiv.org/pdf/2003.02218.pdf)
-  - [The Two Regimes of Deep Network Training](https://arxiv.org/pdf/2002.10376.pdf)
+- ~~Two regimes in neural network training~~
+  - ~~[Gradient Descent on Neural Networks Typically Occurs at the Edge of Stability](https://arxiv.org/pdf/2103.00065.pdf)~~
+  - ~~[Super-Convergence with an Unstable Learning Rate](https://arxiv.org/pdf/2102.10734.pdf)~~
+  - ~~[The large learning rate phase of deep learning: the catapult mechanism](https://arxiv.org/pdf/2003.02218.pdf)~~
+  - ~~[The Two Regimes of Deep Network Training](https://arxiv.org/pdf/2002.10376.pdf)~~
 
 - ~~Coresets in ML~~
   - ~~[GRAD-MATCH: A Gradient Matching Based Data Subset Selection for Efficient Learning](https://arxiv.org/pdf/2103.00123.pdf)~~
