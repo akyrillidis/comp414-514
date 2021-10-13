@@ -14,18 +14,17 @@ layout: default
 | 4 | 09.(23/28)  | Conditional gradient (Frank-Wolfe) | [.pdf](/schedule/images/chapter4.pdf)  | [.pdf](/schedule/images/Lecture 4.pdf) | [.ipynb](/schedule/images/Chapter 4.ipynb) |
 | | | **Part II: Going faster than basic gradient descent** | | | |
 | 5 | 09.30-10.05 | Beyond first-order methods | [.pdf](/schedule/images/chapter5.pdf)  | [.pdf](/schedule/images/Lecture 5.pdf) | [.ipynb](/schedule/images/Chapter 5.ipynb) |
-| 6 | 10.07 | Momemtum acceleration | [.pdf](/schedule/images/chapter6.pdf)  | [.pdf](/schedule/images/Lecture 6.pdf) | [.ipynb](/schedule/images/Chapter 6.ipynb) |
-| 7 | 10.(14/19) | Stochastic motions in gradient descent | [.pdf]()  | [.pdf]() | [.ipynb]() |
+| 6 | 10.(07/14) | Momemtum acceleration | [.pdf](/schedule/images/chapter6.pdf)  | [.pdf](/schedule/images/Lecture 6.pdf) | [.ipynb](/schedule/images/Chapter 6.ipynb) |
+| 7 | 10.(19/21) | Stochastic motions in gradient descent | [.pdf]()  | [.pdf]() | [.ipynb]() |
 | | | **Part III: Provable non-convex optimization** | | | |
-| 8 | 10.(21/26/28) | Sparse feature selection and recovery | [.pdf]() / [.pdf]() | [.pdf]() | [.ipynb]() |
+| 8 | 10.(26/28)-11.02 | Sparse feature selection and recovery | [.pdf]() / [.pdf]() | [.pdf]() | [.ipynb]() |
 |  |  | | (Handwritten / Latex) |  | |
-| 9 | 11.(02/04) | Low-rank recovery | [.pdf]() / [.pdf]() | [.pdf]() | [.ipynb]() |
+| 9 | 11.(04/09) | Low-rank recovery | [.pdf]() / [.pdf]() | [.pdf]() | [.ipynb]() |
 |  |  | | (Handwritten / Latex) |  | |
 | | | **Part IV: Optimization methods in modern ML** | | | |
-| 10 | 11.(09/11) | Landscape properties of general functions | [.pdf]()  | [.pdf]() | --- |
-| 11 | 11.(16/18) | Distributed computations with GD | [.pdf]() | [.pdf]() | --- |
-| 12 | 11.(23/30) | TBD  | ---  | ---  | --- |
-| 13 | 12.02 | TBD  | ---  | ---  | --- |
+| 10 | 11.(11/16) | Landscape properties of general functions | [.pdf]()  | [.pdf]() | --- |
+| 11 | 11.(18/23) | Distributed computations with GD | [.pdf]() | [.pdf]() | --- |
+| 12 | 11.30-12.02 | TBD  | ---  | ---  | --- |
 | | | **Part V: Final exam** | | | |
 
 &nbsp;
