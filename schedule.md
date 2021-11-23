@@ -24,7 +24,7 @@ layout: default
 | | | **Part IV: Optimization methods in modern ML** | | | |
 | 10 | 11.(11/16) | Landscape properties of general functions |  [.pdf](/schedule/images/chapter10.pdf)  | [.pdf](/schedule/images/Lecture 10.pdf) | --- |
 | 11 | 11.(18/23) | Algorithms for NN training | [.pdf]() | [.pdf](/schedule/images/Lecture 11b.pdf) | --- |
-| 12 | 11.30-12.02 | TBD  | ---  | ---  | --- |
+| 12 | 11.30-12.02 | Project presentations  | ---  | ---  | --- |
 | | | **Part V: Final exam** | | | |
 
 &nbsp;
