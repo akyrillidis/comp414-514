@@ -20,9 +20,9 @@ The course project can be categorized as a literature review, as original resear
 
 ### Milestones
 
-- Pick a project the **sooner possible**. **Deadline: September 21st.**
+- Pick a project the **sooner possible**. **Deadline: September 22nd.**
 
-- Submit a one-page description of the project, what is it about, your opinion, what needs to be done (related papers to read) and whether you have any ideas to improve the ideas involved. Describe why they are important or interesting, and provide some appropriate references. If it is original research, provide a plan on what are the next steps and what needs to be done till the end of the semester to finish the project. **Deadline: October 5th.**
+- Submit a one-page description of the project, what is it about, your opinion, what needs to be done (related papers to read) and whether you have any ideas to improve the ideas involved. Describe why they are important or interesting, and provide some appropriate references. If it is original research, provide a plan on what are the next steps and what needs to be done till the end of the semester to finish the project. **Deadline: October 6th.**
 
 - We will probably have in-class presentations towards the end of the semester. These will be spotlight talks (~5mins). Prepare an oral presentation with slides. Focus on high-level ideas, and leave most technical details to your report.
 
