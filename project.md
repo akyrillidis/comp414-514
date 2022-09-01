@@ -47,6 +47,12 @@ The course project can be categorized as a literature review, as original resear
   - [i-SpaSP: Structured Neural Pruning via Sparse Signal Recovery](https://arxiv.org/pdf/2112.04905.pdf)
   - [Writeup provided by instructor - per request]()
 
+- Quantum Approximate Optimization Algorithm from a Optimization perspective
+  - [Writeup provided by instructor - per request]()
+
+- A new min-max toy objective for non-convex/non-concave gradient descent characterization
+  - [Writeup provided by instructor - per request]()
+
 **Literature reviews**
 
 - Literature review on adapters in neural network training and optimization
@@ -59,6 +65,12 @@ The course project can be categorized as a literature review, as original resear
   - [Revisiting Frank-Wolfe: Projection-Free Sparse Convex Optimization](http://m8j.net/math/revisited-FW.pdf)
   - (More papers to be announced)
   
+- (Recent) literature review on asynchrony on SGD
+  - [Learning Under Delayed Feedback: Implicitly Adapting to Gradient Delays](https://arxiv.org/pdf/2106.12261.pdf)
+  - [Asynchronous Stochastic Optimization Robust to Arbitrary Delays](https://proceedings.neurips.cc/paper/2021/file/4b85256c4881edb6c0776df5d81f6236-Paper.pdf)
+  - [Sharper Convergence Guarantees for Asynchronous SGD for Distributed and Federated Learning](https://arxiv.org/pdf/2206.08307.pdf)
+  - [Asynchronous SGD Beats Minibatch SGD Under Arbitrary Delays](https://arxiv.org/pdf/2206.07638.pdf)
+
 - ~~Mixture of experts~~
   - ~~[Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/pdf/1701.06538.pdf)~~
   - ~~[Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity](https://arxiv.org/pdf/2101.03961.pdf)~~
