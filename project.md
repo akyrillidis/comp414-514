@@ -87,6 +87,12 @@ The course project can be categorized as a literature review, as original resear
   - [Optimal Lottery Tickets via SubsetSum: Logarithmic Over-Parameterization is Sufficient](https://proceedings.neurips.cc/paper/2020/file/1b742ae215adf18b75449c6e272fd92d-Paper.pdf)
   - [Data-Efficient Structured Pruning via Submodular Optimization](https://arxiv.org/pdf/2203.04940.pdf)
 
+- Scalable SDPs vs scalable Burer-Monteiro
+  - [Semidefinite Programming versus Burer-Monteiro Factorization for Matrix Sensing](https://arxiv.org/pdf/2208.07469.pdf)
+  - [Sketchy Decisions: Convex Low-Rank Matrix Optimization with Optimal Storage](https://arxiv.org/pdf/1702.06838.pdf)
+  - [Scalable Semidefinite Programming](https://arxiv.org/pdf/1912.02949.pdf)
+  - [Accelerating SGD for Highly Ill-Conditioned Huge-Scale Online Matrix Completion](https://arxiv.org/pdf/2208.11246.pdf)
+
 
 - ~~Mixture of experts~~
   - ~~[Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/pdf/1701.06538.pdf)~~
