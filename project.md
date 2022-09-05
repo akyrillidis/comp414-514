@@ -93,6 +93,12 @@ The course project can be categorized as a literature review, as original resear
   - [Scalable Semidefinite Programming](https://arxiv.org/pdf/1912.02949.pdf)
   - [Accelerating SGD for Highly Ill-Conditioned Huge-Scale Online Matrix Completion](https://arxiv.org/pdf/2208.11246.pdf)
 
+- Recent advances in classical optimization
+  - [Stochastic Polyak Step-size for SGD: An Adaptive Learning Rate for Fast Convergence](https://arxiv.org/pdf/2002.10542.pdf)
+  - [Regularized Newton Method with Global O(1/k2) Convergence](https://arxiv.org/pdf/2112.02089.pdf)
+  - [Online Adaptive Methods, Universality and Acceleration](https://arxiv.org/pdf/1809.02864.pdf)
+  - [Provable Acceleration of Heavy Ball beyond Quadratics for a Class of Polyak-Łojasiewicz Functions when the Non-Convexity is Averaged-Out](https://arxiv.org/pdf/2206.11872.pdf)
+
 
 - ~~Mixture of experts~~
   - ~~[Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/pdf/1701.06538.pdf)~~
