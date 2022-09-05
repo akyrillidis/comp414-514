@@ -71,6 +71,14 @@ The course project can be categorized as a literature review, as original resear
   - [Sharper Convergence Guarantees for Asynchronous SGD for Distributed and Federated Learning](https://arxiv.org/pdf/2206.08307.pdf)
   - [Asynchronous SGD Beats Minibatch SGD Under Arbitrary Delays](https://arxiv.org/pdf/2206.07638.pdf)
 
+- Low rank operations in modern ML
+  - [Gradient descent happens in a tiny subspace](https://arxiv.org/pdf/1812.04754.pdf)
+  - [Low-rank Gradient Approximation For Memory-Efficient On-device Training of Deep Neural Network](https://arxiv.org/pdf/2001.08885.pdf)
+  - [Pufferfish: Communication-efficient Models At No Extra Cost](https://arxiv.org/pdf/2103.03936.pdf)
+  - [Gradient Descent for Low-Rank Functions](https://arxiv.org/pdf/2206.08257.pdf)
+  - [Attention is not all you need: pure attention loses rank doubly exponentially with depth](https://arxiv.org/pdf/2103.03404.pdf)
+
+
 - ~~Mixture of experts~~
   - ~~[Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/pdf/1701.06538.pdf)~~
   - ~~[Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity](https://arxiv.org/pdf/2101.03961.pdf)~~
