@@ -85,7 +85,6 @@ The course project can be categorized as a literature review, as original resear
   - [The Lottery Ticket Hypothesis for Pre-Trained BERT Networks](https://proceedings.neurips.cc/paper/2020/file/b6af2c9703f203a2794be03d443af2e3-Paper.pdf)
   - [What’s Hidden in a Randomly Weighted Neural Network?](https://arxiv.org/pdf/1911.13299.pdf)
   - [Optimal Lottery Tickets via SubsetSum: Logarithmic Over-Parameterization is Sufficient](https://proceedings.neurips.cc/paper/2020/file/1b742ae215adf18b75449c6e272fd92d-Paper.pdf)
-  - [Data-Efficient Structured Pruning via Submodular Optimization](https://arxiv.org/pdf/2203.04940.pdf)
 
 - Scalable SDPs vs scalable Burer-Monteiro
   - [Semidefinite Programming versus Burer-Monteiro Factorization for Matrix Sensing](https://arxiv.org/pdf/2208.07469.pdf)
@@ -98,6 +97,12 @@ The course project can be categorized as a literature review, as original resear
   - [Regularized Newton Method with Global O(1/k2) Convergence](https://arxiv.org/pdf/2112.02089.pdf)
   - [Online Adaptive Methods, Universality and Acceleration](https://arxiv.org/pdf/1809.02864.pdf)
   - [Provable Acceleration of Heavy Ball beyond Quadratics for a Class of Polyak-Łojasiewicz Functions when the Non-Convexity is Averaged-Out](https://arxiv.org/pdf/2206.11872.pdf)
+
+- Sparsity in neural network training via constrained optimization
+  - [Learning Sparse Neural Networks through L0 Regularization](https://arxiv.org/pdf/1712.01312.pdf)
+  - [“Learning-Compression” Algorithms for Neural Net Pruning](https://faculty.ucmerced.edu/mcarreira-perpinan/papers/cvpr18.pdf)
+  - [Controlled Sparsity via Constrained Optimization](https://arxiv.org/pdf/2208.04425.pdf)
+  - [Data-Efficient Structured Pruning via Submodular Optimization](https://arxiv.org/pdf/2203.04940.pdf)
 
 
 - ~~Mixture of experts~~
