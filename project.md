@@ -103,7 +103,7 @@ The course project can be categorized as a literature review, as original resear
   - [“Learning-Compression” Algorithms for Neural Net Pruning](https://faculty.ucmerced.edu/mcarreira-perpinan/papers/cvpr18.pdf)
   - [Controlled Sparsity via Constrained Optimization](https://arxiv.org/pdf/2208.04425.pdf)
   - [Data-Efficient Structured Pruning via Submodular Optimization](https://arxiv.org/pdf/2203.04940.pdf)
-
+  - [Effective Sparsification of Neural Networks with Global Sparsity Constraint](https://arxiv.org/pdf/2105.01571.pdf)
 
 - ~~Mixture of experts~~
   - ~~[Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/pdf/1701.06538.pdf)~~
