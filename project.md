@@ -78,6 +78,14 @@ The course project can be categorized as a literature review, as original resear
   - [Gradient Descent for Low-Rank Functions](https://arxiv.org/pdf/2206.08257.pdf)
   - [Attention is not all you need: pure attention loses rank doubly exponentially with depth](https://arxiv.org/pdf/2103.03404.pdf)
 
+- The Lottery Ticket Hypothesis: Architectures and Theory
+  - [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/pdf/1803.03635.pdf)
+  - [Lottery Tickets on a Data Diet: Finding Initializations with Sparse Trainable Networks](https://arxiv.org/pdf/2206.01278.pdf)
+  - [The Lottery Tickets Hypothesis for Supervised and Self-supervised Pre-training in Computer Vision Models](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_The_Lottery_Tickets_Hypothesis_for_Supervised_and_Self-Supervised_Pre-Training_in_CVPR_2021_paper.pdf)
+  - [The Lottery Ticket Hypothesis for Pre-Trained BERT Networks](https://proceedings.neurips.cc/paper/2020/file/b6af2c9703f203a2794be03d443af2e3-Paper.pdf)
+  - [What’s Hidden in a Randomly Weighted Neural Network?](https://arxiv.org/pdf/1911.13299.pdf)
+  - [Optimal Lottery Tickets via SubsetSum: Logarithmic Over-Parameterization is Sufficient](https://proceedings.neurips.cc/paper/2020/file/1b742ae215adf18b75449c6e272fd92d-Paper.pdf)
+
 
 - ~~Mixture of experts~~
   - ~~[Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/pdf/1701.06538.pdf)~~
