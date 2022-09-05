@@ -85,6 +85,7 @@ The course project can be categorized as a literature review, as original resear
   - [The Lottery Ticket Hypothesis for Pre-Trained BERT Networks](https://proceedings.neurips.cc/paper/2020/file/b6af2c9703f203a2794be03d443af2e3-Paper.pdf)
   - [What’s Hidden in a Randomly Weighted Neural Network?](https://arxiv.org/pdf/1911.13299.pdf)
   - [Optimal Lottery Tickets via SubsetSum: Logarithmic Over-Parameterization is Sufficient](https://proceedings.neurips.cc/paper/2020/file/1b742ae215adf18b75449c6e272fd92d-Paper.pdf)
+  - [Data-Efficient Structured Pruning via Submodular Optimization](https://arxiv.org/pdf/2203.04940.pdf)
 
 
 - ~~Mixture of experts~~
