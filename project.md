@@ -55,11 +55,11 @@ The course project can be categorized as a literature review, as original resear
 
 **Literature reviews**
 
-- Literature review on adapters in neural network training and optimization
-  - [Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/pdf/1902.00751.pdf)
-  - [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/pdf/2101.00190.pdf)
-  - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf)
-  - [Towards a Unified View of Parameter-Efficient Transfer Learning](https://arxiv.org/pdf/2110.04366.pdf)
+~~- Literature review on adapters in neural network training and optimization~~
+ ~~- [Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/pdf/1902.00751.pdf)~~
+ ~~- [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/pdf/2101.00190.pdf)~~
+ ~~- [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf)~~
+ ~~- [Towards a Unified View of Parameter-Efficient Transfer Learning](https://arxiv.org/pdf/2110.04366.pdf)~~
 
 - Literature review of recent developments on Frank-Wolfe methods
   - [Revisiting Frank-Wolfe: Projection-Free Sparse Convex Optimization](http://m8j.net/math/revisited-FW.pdf)
