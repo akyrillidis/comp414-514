@@ -13,7 +13,7 @@ layout: default
 | 3 | 09.(08/13/15) | Gradient method & Convexity | [.pdf](/schedule/images/chapter3.pdf)  | [.pdf](/schedule/images/Lecture 3.pdf) | [.ipynb](/schedule/images/Chapter 3.ipynb) |
 | 4 | 09.(20/22/27)  | Conditional gradient (Frank-Wolfe) | [.pdf](/schedule/images/chapter4.pdf)  | [.pdf](/schedule/images/Lecture 4.pdf) | [.ipynb](/schedule/images/Chapter 4.ipynb) |
 | | | **Part II: Going faster than basic gradient descent** | | | |
-| 5 | 09.29-10.04 | Beyond first-order methods | [.pdf]()  | [.pdf]() | [.ipynb]() |
+| 5 | 09.29-10.04 | Beyond first-order methods | [.pdf](/schedule/images/chapter5.pdf)  | [.pdf](/schedule/images/Lecture 5.pdf) | [.ipynb](/schedule/images/Chapter 5.ipynb) |
 | 6 | 10.(06/13) | Momemtum acceleration | [.pdf]()  | [.pdf]() | [.ipynb]() |
 | 7 | 10.(18/20) | Stochastic motions in gradient descent | [.pdf]()  | [.pdf]() | [.ipynb]() |
 | | | **Part III: Provable non-convex optimization** | | | |
