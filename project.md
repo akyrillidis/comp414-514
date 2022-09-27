@@ -56,10 +56,10 @@ The course project can be categorized as a literature review, as original resear
 **Literature reviews**
 
 - ~~Literature review on adapters in neural network training and optimization~~
- - ~~[Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/pdf/1902.00751.pdf)~~
- - ~~[Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/pdf/2101.00190.pdf)~~
- - ~~[LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf)~~
- - ~~[Towards a Unified View of Parameter-Efficient Transfer Learning](https://arxiv.org/pdf/2110.04366.pdf)~~
+  - ~~[Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/pdf/1902.00751.pdf)~~
+  - ~~[Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/pdf/2101.00190.pdf)~~
+  - ~~[LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf)~~
+  - ~~[Towards a Unified View of Parameter-Efficient Transfer Learning](https://arxiv.org/pdf/2110.04366.pdf)~~
 
 - Literature review of recent developments on Frank-Wolfe methods
   - [Revisiting Frank-Wolfe: Projection-Free Sparse Convex Optimization](http://m8j.net/math/revisited-FW.pdf)
@@ -71,12 +71,12 @@ The course project can be categorized as a literature review, as original resear
   - [Sharper Convergence Guarantees for Asynchronous SGD for Distributed and Federated Learning](https://arxiv.org/pdf/2206.08307.pdf)
   - [Asynchronous SGD Beats Minibatch SGD Under Arbitrary Delays](https://arxiv.org/pdf/2206.07638.pdf)
 
-- Low rank operations in modern ML
-  - [Gradient descent happens in a tiny subspace](https://arxiv.org/pdf/1812.04754.pdf)
-  - [Low-rank Gradient Approximation For Memory-Efficient On-device Training of Deep Neural Network](https://arxiv.org/pdf/2001.08885.pdf)
-  - [Pufferfish: Communication-efficient Models At No Extra Cost](https://arxiv.org/pdf/2103.03936.pdf)
-  - [Gradient Descent for Low-Rank Functions](https://arxiv.org/pdf/2206.08257.pdf)
-  - [Attention is not all you need: pure attention loses rank doubly exponentially with depth](https://arxiv.org/pdf/2103.03404.pdf)
+- ~~Low rank operations in modern ML~~
+  - ~~[Gradient descent happens in a tiny subspace](https://arxiv.org/pdf/1812.04754.pdf)~~
+  - ~~[Low-rank Gradient Approximation For Memory-Efficient On-device Training of Deep Neural Network](https://arxiv.org/pdf/2001.08885.pdf)~~
+  - ~~[Pufferfish: Communication-efficient Models At No Extra Cost](https://arxiv.org/pdf/2103.03936.pdf)~~
+  - ~~[Gradient Descent for Low-Rank Functions](https://arxiv.org/pdf/2206.08257.pdf)~~
+  - ~~[Attention is not all you need: pure attention loses rank doubly exponentially with depth](https://arxiv.org/pdf/2103.03404.pdf)~~
 
 - The Lottery Ticket Hypothesis: Architectures and Theory
   - [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/pdf/1803.03635.pdf)
@@ -92,11 +92,11 @@ The course project can be categorized as a literature review, as original resear
   - [Scalable Semidefinite Programming](https://arxiv.org/pdf/1912.02949.pdf)
   - [Accelerating SGD for Highly Ill-Conditioned Huge-Scale Online Matrix Completion](https://arxiv.org/pdf/2208.11246.pdf)
 
-- Recent advances in classical optimization
-  - [Stochastic Polyak Step-size for SGD: An Adaptive Learning Rate for Fast Convergence](https://arxiv.org/pdf/2002.10542.pdf)
-  - [Regularized Newton Method with Global O(1/k2) Convergence](https://arxiv.org/pdf/2112.02089.pdf)
-  - [Online Adaptive Methods, Universality and Acceleration](https://arxiv.org/pdf/1809.02864.pdf)
-  - [Provable Acceleration of Heavy Ball beyond Quadratics for a Class of Polyak-Łojasiewicz Functions when the Non-Convexity is Averaged-Out](https://arxiv.org/pdf/2206.11872.pdf)
+- ~~Recent advances in classical optimization~~
+  - ~~[Stochastic Polyak Step-size for SGD: An Adaptive Learning Rate for Fast Convergence](https://arxiv.org/pdf/2002.10542.pdf)~~
+  - ~~[Regularized Newton Method with Global O(1/k2) Convergence](https://arxiv.org/pdf/2112.02089.pdf)~~
+  - ~~[Online Adaptive Methods, Universality and Acceleration](https://arxiv.org/pdf/1809.02864.pdf)~~
+  - ~~[Provable Acceleration of Heavy Ball beyond Quadratics for a Class of Polyak-Łojasiewicz Functions when the Non-Convexity is Averaged-Out](https://arxiv.org/pdf/2206.11872.pdf)~~
 
 - Sparsity in neural network training via constrained optimization
   - [Learning Sparse Neural Networks through L0 Regularization](https://arxiv.org/pdf/1712.01312.pdf)
