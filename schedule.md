@@ -15,7 +15,7 @@ layout: default
 | | | **Part II: Going faster than basic gradient descent** | | | |
 | 5 | 09.29-10.04 | Beyond first-order methods | [.pdf](/schedule/images/chapter5.pdf)  | [.pdf](/schedule/images/Lecture 5.pdf) | [.ipynb](/schedule/images/Chapter 5.ipynb) |
 | 6 | 10.(06/13) | Momemtum acceleration | [.pdf](/schedule/images/chapter6.pdf)  | [.pdf](/schedule/images/Lecture 6.pdf) | [.ipynb](/schedule/images/Chapter 6.ipynb) |
-| 7 | 10.(18/20) | Stochastic motions in gradient descent | [.pdf]()  | [.pdf]() | [.ipynb]() |
+| 7 | 10.(18/20) | Stochastic motions in gradient descent | [.pdf](/schedule/images/chapter7.pdf)  | [.pdf](/schedule/images/Lecture 7.pdf) | [.ipynb](/schedule/images/Chapter 7.ipynb) |
 | | | **Part III: Provable non-convex optimization** | | | |
 | 8 | 10.(25/27)-11.01 | Sparse feature selection and recovery | [.pdf]() / [.pdf]() | [.pdf]() | [.ipynb]() |
 |  |  | | (Handwritten / Latex) |  | |
