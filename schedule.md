@@ -18,8 +18,7 @@ layout: default
 | 7 | 10.(18/20) | Stochastic motions in gradient descent | [.pdf](/schedule/images/chapter7.pdf)  | [.pdf](/schedule/images/Lecture 7.pdf) | [.ipynb](/schedule/images/Chapter 7.ipynb) |
 | | | **Part III: Provable non-convex optimization** | | | |
 | 8 | 10.(25/27)-11.01 | Sparse feature selection and recovery | [.pdf](/schedule/images/chapter8.pdf) | [.pdf](/schedule/images/Lecture 8.pdf) | [.ipynb](/schedule/images/Chapter 8.ipynb) |
-| 9 | 11.(03/08) | Low-rank recovery | [.pdf]() / [.pdf]() | [.pdf]() | [.ipynb]() |
-|  |  | | (Handwritten / Latex) |  | |
+| 9 | 11.(03/08) | Low-rank recovery | [.pdf](/schedule/images/chapter9.pdf) | [.pdf](/schedule/images/Lecture 9.pdf) | [.ipynb](/schedule/images/Chapter 9.ipynb) |
 | | | **Part IV: Optimization methods in modern ML** | | | |
 | 10 | 11.(10/15) | Landscape properties of general functions |  [.pdf]()  | [.pdf]() | --- |
 | 11 | 11.(15/17) | Algorithms for NN training | [.pdf]() | [.pdf]() | --- |
