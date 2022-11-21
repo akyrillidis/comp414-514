@@ -21,7 +21,7 @@ layout: default
 | 9 | 11.(03/08) | Low-rank recovery | [.pdf](/schedule/images/chapter9.pdf) | [.pdf](/schedule/images/Lecture 9.pdf) | [.ipynb](/schedule/images/Chapter 9.ipynb) |
 | | | **Part IV: Optimization methods in modern ML** | | | |
 | 10 | 11.(17/22) | Landscape properties of general functions |  [.pdf](/schedule/images/chapter10.pdf)  | [.pdf](/schedule/images/Lecture 10.pdf) | --- |
-| 11 | 11.(22) | Distributed computing + Algorithms for NN training | [.pdf]() | [.pdf](/schedule/images/Lecture 11b.pdf) | --- |
+| 11 | 11.(22) | Distributed computing + Algorithms for NN training | [/schedule/images/chapter11-12.pdf]() | [.pdf](/schedule/images/Lecture 11.pdf)/[.pdf](/schedule/images/Lecture 11b.pdf) | --- |
 | 13 | 11.29-12.01 | Project presentations  | ---  | ---  | --- |
 | | | **Part V: Final exam** | | | |
 
