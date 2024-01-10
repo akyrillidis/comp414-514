@@ -32,9 +32,11 @@ The course project can be categorized as a literature review, original research,
 
 **Project ideas**
   
-- Practical algorithms for SDPs
-  - [Smoothed analysis for low-rank solutions to SDPs in quadratic penalty form](https://arxiv.org/pdf/1803.00186.pdf)
-  - [The mixing method - low-rank coordinate descent for semidefinite programming with diagonal constraints](https://arxiv.org/pdf/1706.00476.pdf)
+- Computer-assisted worst-case analysis of gradient-based algorithms
+  - [An optimal gradient method for smooth strongly convex minimization](https://arxiv.org/pdf/2101.09741.pdf)
+  - [Counter-Examples in First-Order Optimization: A Constructive Approach](https://arxiv.org/pdf/2303.10503.pdf)
+  - [On Fundamental Proof Structures in First-Order Optimization](https://arxiv.org/pdf/2310.02015.pdf)
+  - [PEPit: computer-assisted worst-case analyses of first-order optimization methods in Python](https://arxiv.org/pdf/2201.04040.pdf)
 
 - True alternating gradient descent for matrix factorization
   - [Near-optimal Local Convergence of Alternating Gradient Descent-Ascent for Minimax Optimization](https://arxiv.org/pdf/2102.09468.pdf)
