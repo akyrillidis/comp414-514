@@ -57,8 +57,11 @@ The course project can be categorized as a literature review, original research,
 - Quantum Approximate Optimization Algorithm from a Optimization perspective
   - [Writeup provided by instructor - per request]()
 
-- A new min-max toy objective for non-convex/non-concave gradient descent characterization
-  - [Writeup provided by instructor - per request]()
+- Transformer alternatives
+  - [Attention is all you need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+  - [Overview of transformers](https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/)
+  - [MLP-Mixer: An all-MLP Architecture for Vision](https://arxiv.org/pdf/2105.01601.pdf)
+  - [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/pdf/2307.08621.pdf)
 
 **Literature reviews**
 
