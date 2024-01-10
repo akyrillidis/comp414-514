@@ -50,7 +50,7 @@ The course project can be categorized as a literature review, original research,
   - [Automatic Gradient Descent: Deep Learning without Hyperparameters](https://arxiv.org/pdf/2304.05187.pdf)
   - [Adaptive FL with auto-tuned clients](https://arxiv.org/pdf/2306.11201.pdf)
   
-- Sparse training + pruning in Neural Network training
+- Sparse post-training pruning and update in Neural Network training
   - [i-SpaSP: Structured Neural Pruning via Sparse Signal Recovery](https://arxiv.org/pdf/2112.04905.pdf)
   - [Writeup provided by instructor - per request]()
 
