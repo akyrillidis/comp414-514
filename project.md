@@ -62,8 +62,12 @@ The course project can be categorized as a literature review, original research,
   - [Overview of transformers](https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/)
   - [MLP-Mixer: An all-MLP Architecture for Vision](https://arxiv.org/pdf/2105.01601.pdf)
   - [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/pdf/2307.08621.pdf)
-
-**Literature reviews**
+ 
+- (Recent) advances in asynchrony on distributed SGD
+  - [Learning Under Delayed Feedback: Implicitly Adapting to Gradient Delays](https://arxiv.org/pdf/2106.12261.pdf)
+  - [Asynchronous Stochastic Optimization Robust to Arbitrary Delays](https://proceedings.neurips.cc/paper/2021/file/4b85256c4881edb6c0776df5d81f6236-Paper.pdf)
+  - [Sharper Convergence Guarantees for Asynchronous SGD for Distributed and Federated Learning](https://arxiv.org/pdf/2206.08307.pdf)
+  - [Asynchronous SGD Beats Minibatch SGD Under Arbitrary Delays](https://arxiv.org/pdf/2206.07638.pdf)
 
 - ~~Literature review on adapters in neural network training and optimization~~
   - ~~[Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/pdf/1902.00751.pdf)~~
@@ -75,55 +79,12 @@ The course project can be categorized as a literature review, original research,
   - [Revisiting Frank-Wolfe: Projection-Free Sparse Convex Optimization](http://m8j.net/math/revisited-FW.pdf)
   - (More papers to be announced)
   
-- (Recent) literature review on asynchrony on SGD
-  - [Learning Under Delayed Feedback: Implicitly Adapting to Gradient Delays](https://arxiv.org/pdf/2106.12261.pdf)
-  - [Asynchronous Stochastic Optimization Robust to Arbitrary Delays](https://proceedings.neurips.cc/paper/2021/file/4b85256c4881edb6c0776df5d81f6236-Paper.pdf)
-  - [Sharper Convergence Guarantees for Asynchronous SGD for Distributed and Federated Learning](https://arxiv.org/pdf/2206.08307.pdf)
-  - [Asynchronous SGD Beats Minibatch SGD Under Arbitrary Delays](https://arxiv.org/pdf/2206.07638.pdf)
 
-- ~~Low rank operations in modern ML~~
-  - ~~[Gradient descent happens in a tiny subspace](https://arxiv.org/pdf/1812.04754.pdf)~~
-  - ~~[Low-rank Gradient Approximation For Memory-Efficient On-device Training of Deep Neural Network](https://arxiv.org/pdf/2001.08885.pdf)~~
-  - ~~[Pufferfish: Communication-efficient Models At No Extra Cost](https://arxiv.org/pdf/2103.03936.pdf)~~
-  - ~~[Gradient Descent for Low-Rank Functions](https://arxiv.org/pdf/2206.08257.pdf)~~
-  - ~~[Attention is not all you need: pure attention loses rank doubly exponentially with depth](https://arxiv.org/pdf/2103.03404.pdf)~~
-
-- The Lottery Ticket Hypothesis: Architectures and Theory
-  - [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/pdf/1803.03635.pdf)
-  - [Lottery Tickets on a Data Diet: Finding Initializations with Sparse Trainable Networks](https://arxiv.org/pdf/2206.01278.pdf)
-  - [The Lottery Tickets Hypothesis for Supervised and Self-supervised Pre-training in Computer Vision Models](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_The_Lottery_Tickets_Hypothesis_for_Supervised_and_Self-Supervised_Pre-Training_in_CVPR_2021_paper.pdf)
-  - [The Lottery Ticket Hypothesis for Pre-Trained BERT Networks](https://proceedings.neurips.cc/paper/2020/file/b6af2c9703f203a2794be03d443af2e3-Paper.pdf)
-  - [What’s Hidden in a Randomly Weighted Neural Network?](https://arxiv.org/pdf/1911.13299.pdf)
-  - [Optimal Lottery Tickets via SubsetSum: Logarithmic Over-Parameterization is Sufficient](https://proceedings.neurips.cc/paper/2020/file/1b742ae215adf18b75449c6e272fd92d-Paper.pdf)
-
-- Scalable SDPs vs scalable Burer-Monteiro
-  - [Semidefinite Programming versus Burer-Monteiro Factorization for Matrix Sensing](https://arxiv.org/pdf/2208.07469.pdf)
-  - [Sketchy Decisions: Convex Low-Rank Matrix Optimization with Optimal Storage](https://arxiv.org/pdf/1702.06838.pdf)
-  - [Scalable Semidefinite Programming](https://arxiv.org/pdf/1912.02949.pdf)
-  - [Accelerating SGD for Highly Ill-Conditioned Huge-Scale Online Matrix Completion](https://arxiv.org/pdf/2208.11246.pdf)
-
-- ~~Recent advances in classical optimization~~
-  - ~~[Stochastic Polyak Step-size for SGD: An Adaptive Learning Rate for Fast Convergence](https://arxiv.org/pdf/2002.10542.pdf)~~
-  - ~~[Regularized Newton Method with Global O(1/k2) Convergence](https://arxiv.org/pdf/2112.02089.pdf)~~
-  - ~~[Online Adaptive Methods, Universality and Acceleration](https://arxiv.org/pdf/1809.02864.pdf)~~
-  - ~~[Provable Acceleration of Heavy Ball beyond Quadratics for a Class of Polyak-Łojasiewicz Functions when the Non-Convexity is Averaged-Out](https://arxiv.org/pdf/2206.11872.pdf)~~
-
-- Sparsity in neural network training via constrained optimization
-  - [Learning Sparse Neural Networks through L0 Regularization](https://arxiv.org/pdf/1712.01312.pdf)
-  - [“Learning-Compression” Algorithms for Neural Net Pruning](https://faculty.ucmerced.edu/mcarreira-perpinan/papers/cvpr18.pdf)
-  - [Controlled Sparsity via Constrained Optimization](https://arxiv.org/pdf/2208.04425.pdf)
-  - [Data-Efficient Structured Pruning via Submodular Optimization](https://arxiv.org/pdf/2203.04940.pdf)
-  - [Effective Sparsification of Neural Networks with Global Sparsity Constraint](https://arxiv.org/pdf/2105.01571.pdf)
 
 - ~~Mixture of experts~~
   - ~~[Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/pdf/1701.06538.pdf)~~
   - ~~[Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity](https://arxiv.org/pdf/2101.03961.pdf)~~
 
-- ~~Two regimes in neural network training~~
-  - ~~[Gradient Descent on Neural Networks Typically Occurs at the Edge of Stability](https://arxiv.org/pdf/2103.00065.pdf)~~
-  - ~~[Super-Convergence with an Unstable Learning Rate](https://arxiv.org/pdf/2102.10734.pdf)~~
-  - ~~[The large learning rate phase of deep learning: the catapult mechanism](https://arxiv.org/pdf/2003.02218.pdf)~~
-  - ~~[The Two Regimes of Deep Network Training](https://arxiv.org/pdf/2002.10376.pdf)~~
 
   
       
