@@ -38,8 +38,10 @@ The course project can be categorized as a literature review, original research,
   - [On Fundamental Proof Structures in First-Order Optimization](https://arxiv.org/pdf/2310.02015.pdf)
   - [PEPit: computer-assisted worst-case analyses of first-order optimization methods in Python](https://arxiv.org/pdf/2201.04040.pdf)
 
-- True alternating gradient descent for matrix factorization
-  - [Near-optimal Local Convergence of Alternating Gradient Descent-Ascent for Minimax Optimization](https://arxiv.org/pdf/2102.09468.pdf)
+- Modernized view of learning rates in optimization methods
+  - [Acceleration via fractal learning rate schedules](https://proceedings.mlr.press/v139/agarwal21a/agarwal21a.pdf)
+  - [Super-acceleration with cyclical step-sizes](https://proceedings.mlr.press/v151/goujaud22a/goujaud22a.pdf)
+  - [Provably Faster Gradient Descent via Long Steps](https://arxiv.org/pdf/2307.06324.pdf)
 
 - Faster algorithms in Sparsity in Neural Network training
   - [i-SpaSP: Structured Neural Pruning via Sparse Signal Recovery](https://arxiv.org/pdf/2112.04905.pdf)
