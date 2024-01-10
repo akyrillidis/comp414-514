@@ -43,10 +43,13 @@ The course project can be categorized as a literature review, original research,
   - [Super-acceleration with cyclical step-sizes](https://proceedings.mlr.press/v151/goujaud22a/goujaud22a.pdf)
   - [Provably Faster Gradient Descent via Long Steps](https://arxiv.org/pdf/2307.06324.pdf)
 
-- Faster algorithms in Sparsity in Neural Network training
-  - [i-SpaSP: Structured Neural Pruning via Sparse Signal Recovery](https://arxiv.org/pdf/2112.04905.pdf)
-  - [IHT dies hard: Provable accelerated Iterative Hard Thresholding](https://arxiv.org/pdf/1712.09379.pdf)
-
+- Recent advances in adaptive methods in ML
+  - [Adaptive proximal algorithms for convex optimization under local Lipschitz continuity of the gradient](https://arxiv.org/pdf/2301.04431.pdf)
+  - [Stochastic polyak step-size for SGD: An adaptive learning rate for fast convergence](https://arxiv.org/pdf/2002.10542.pdf)
+  - [Learning-Rate-Free Learning by D-Adaptation](https://arxiv.org/pdf/2301.07733.pdf)
+  - [Automatic Gradient Descent: Deep Learning without Hyperparameters](https://arxiv.org/pdf/2304.05187.pdf)
+  - [Adaptive FL with auto-tuned clients](https://arxiv.org/pdf/2306.11201.pdf)
+  
 - Sparse training + pruning in Neural Network training
   - [i-SpaSP: Structured Neural Pruning via Sparse Signal Recovery](https://arxiv.org/pdf/2112.04905.pdf)
   - [Writeup provided by instructor - per request]()
