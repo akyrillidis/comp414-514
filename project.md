@@ -58,7 +58,10 @@ The course project can be categorized as a literature review, original research,
   - [Writeup provided by instructor - per request]()
 
 - Empirical evaluation of derivative free optimization methods in quantum objectives
-  - []()
+  - [Performance of the Quantum Approximate Optimization Algorithm on the Maximum Cut Problem](https://arxiv.org/pdf/1811.08419.pdf)
+  - [Introductory Tutorial for SPSA and the Quantum Approximation Optimization Algorithm](https://arxiv.org/pdf/2106.01578.pdf)
+  - [Global Solutions to Nonconvex Problems by Evolution of Hamilton-Jacobi PDEs](https://arxiv.org/pdf/2202.11014.pdf)
+  - (probably more recent papers will be included...)
  
 - Homotopy methods, graduated optimization and quantum annealing
   - []()
