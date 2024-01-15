@@ -84,7 +84,13 @@ The course project can be categorized as a literature review, original research,
   - [Sweeping Heterogeneity with Smart MoPs: Mixture of Prompts for LLM Task Adaptation](https://arxiv.org/pdf/2310.02842.pdf)
 
 - Review of ML models on weather forecasting
-  - []()
+  - [Learning skillful medium-range global weather forecasting](https://arxiv.org/pdf/2212.12794.pdf)
+  - [ClimaX: A foundation model for weather and climate](https://arxiv.org/pdf/2301.10343.pdf)
+  - [FourCastNet: Accelerating Global High-Resolution Weather Forecasting using Adaptive Fourier Neural Operators](https://arxiv.org/pdf/2208.05419.pdf)
+  - [WeatherBench 2: A benchmark for the next generation of data-driven global weather models](https://arxiv.org/pdf/2308.15560.pdf)
+  - [FENGWU: PUSHING THE SKILLFUL GLOBAL MEDIUM-RANGE WEATHER FORECAST BEYOND 10 DAYS LEAD](https://arxiv.org/pdf/2304.02948.pdf)
+  - (probably more papers will be needed...)
+
  
 - Review of large-scale ML models in AI
   - [Galactica: A Large Language Model for Science](https://arxiv.org/pdf/2211.09085.pdf)
