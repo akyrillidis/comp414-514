@@ -77,22 +77,24 @@ The course project can be categorized as a literature review, original research,
   - [Gradient Episodic Memory for Continual Learning](https://arxiv.org/pdf/1706.08840.pdf)
   - [Cold Start Streaming Learning for Deep Networks](https://arxiv.org/pdf/2211.04624.pdf)
 
-- ~~Literature review on adapters in neural network training and optimization~~
-  - ~~[Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/pdf/1902.00751.pdf)~~
-  - ~~[Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/pdf/2101.00190.pdf)~~
-  - ~~[LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf)~~
-  - ~~[Towards a Unified View of Parameter-Efficient Transfer Learning](https://arxiv.org/pdf/2110.04366.pdf)~~
+- Review of modern continual learning methods
+  - [One Size Fits All for Semantic Shifts: Adaptive Prompt Tuning for Continual Learning](https://arxiv.org/pdf/2311.12048.pdf)
+  - [Compress, Then Prompt: Improving Accuracy-Efficiency Trade-off of LLM Inference with Transferable Prompt](https://arxiv.org/pdf/2305.11186.pdf)
+  - [FedJETs: Efficient Just-In-Time Personalization with Federated Mixture of Experts](https://arxiv.org/pdf/2306.08586.pdf)
+  - [Sweeping Heterogeneity with Smart MoPs: Mixture of Prompts for LLM Task Adaptation](https://arxiv.org/pdf/2310.02842.pdf)
+
+- Review of ML models on weather forecasting
+  - []()
+
+- Literature review on adapters in neural network training and optimization
+  - [Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/pdf/1902.00751.pdf)
+  - [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/pdf/2101.00190.pdf)
+  - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf)
+  - [Towards a Unified View of Parameter-Efficient Transfer Learning](https://arxiv.org/pdf/2110.04366.pdf)
 
 - Literature review of recent developments on Frank-Wolfe methods
   - [Revisiting Frank-Wolfe: Projection-Free Sparse Convex Optimization](http://m8j.net/math/revisited-FW.pdf)
   - (More papers to be announced)
-  
-
-
-- ~~Mixture of experts~~
-  - ~~[Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/pdf/1701.06538.pdf)~~
-  - ~~[Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity](https://arxiv.org/pdf/2101.03961.pdf)~~
-
 
   
       
