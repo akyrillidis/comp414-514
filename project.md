@@ -85,6 +85,16 @@ The course project can be categorized as a literature review, original research,
 
 - Review of ML models on weather forecasting
   - []()
+ 
+- Review of large-scale ML models in AI
+  - [Galactica: A Large Language Model for Science](https://arxiv.org/pdf/2211.09085.pdf)
+  - [Branch-Train-Merge training of expert LLMs](https://arxiv.org/pdf/2208.03306.pdf)
+  - [Training a language model on a single GPU in one day](https://arxiv.org/pdf/2212.14034.pdf)
+  - [Scaling ViT to 22B](https://arxiv.org/pdf/2302.05442.pdf)
+  - [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971.pdf)
+  - [BloombergGPT](https://arxiv.org/pdf/2303.17564.pdf)
+  - [Textbooks Are All You Need](https://arxiv.org/pdf/2306.11644.pdf)
+  - (probably more papers will be needed...)
 
 - Literature review on adapters in neural network training and optimization
   - [Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/pdf/1902.00751.pdf)
