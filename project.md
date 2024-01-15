@@ -135,6 +135,17 @@ The course project can be categorized as a literature review, original research,
   - [An equivalence between data poisoning and byzantine gradient attacks](https://arxiv.org/pdf/2202.08578.pdf)
   - [Byzantine-robust learning on heterogeneous datasets via resampling](https://arxiv.org/pdf/2006.09365.pdf)
 
+- Review on efficient distributed protocols: independent subnetwork training (IST)
+  - [Distributed learning of fully connected neural networks using independent subnet training](https://par.nsf.gov/servlets/purl/10404274)
+  - [GIST: Distributed training for large-scale graph convolutional networks](https://link.springer.com/article/10.1007/s41468-023-00127-8)
+  - [Resist: Layer-wise decomposition of resnets for distributed training](https://proceedings.mlr.press/v180/dun22a/dun22a.pdf)
+  - [Efficient and Light-Weight Federated Learning via Asynchronous Distributed Dropout](https://proceedings.mlr.press/v206/dun23a/dun23a.pdf)
+  - [Federated Learning Over Images: Vertical Decompositions and Pre-Trained Backbones Are Difficult to Beat](https://openaccess.thecvf.com/content/ICCV2023/papers/Hu_Federated_Learning_Over_Images_Vertical_Decompositions_and_Pre-Trained_Backbones_Are_ICCV_2023_paper.pdf)
+
+- Review of theoretical results for various pruning methods
+  - [On the convergence of shallow neural network training with randomly masked neurons](https://arxiv.org/pdf/2112.02668.pdf)
+  - [How much pre-training is enough to discover a good subnetwork?](https://arxiv.org/pdf/2108.00259.pdf)
+  - [Strong Lottery Ticket Hypothesis with epsilon–perturbation](https://proceedings.mlr.press/v206/xiong23a/xiong23a.pdf)
 
 &nbsp;
 &nbsp;
