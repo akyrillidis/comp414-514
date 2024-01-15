@@ -68,6 +68,13 @@ The course project can be categorized as a literature review, original research,
   - [Asynchronous Stochastic Optimization Robust to Arbitrary Delays](https://proceedings.neurips.cc/paper/2021/file/4b85256c4881edb6c0776df5d81f6236-Paper.pdf)
   - [Sharper Convergence Guarantees for Asynchronous SGD for Distributed and Federated Learning](https://arxiv.org/pdf/2206.08307.pdf)
   - [Asynchronous SGD Beats Minibatch SGD Under Arbitrary Delays](https://arxiv.org/pdf/2206.07638.pdf)
+ 
+- Review of classical continual learning methods
+  - [iCaRL: Incremental Classifier and Representation Learning](https://arxiv.org/pdf/1611.07725.pdf)
+  - [End-to-End Incremental Learning](https://arxiv.org/pdf/1807.09536.pdf)
+  - [Efficient Lifelong Learning with A-GEM](https://arxiv.org/pdf/1812.00420.pdf)
+  - [Don't Stop Pretraining: Adapt Language Models to Domains and Tasks](https://arxiv.org/pdf/2004.10964.pdf)
+  - [Gradient Episodic Memory for Continual Learning](https://arxiv.org/pdf/1706.08840.pdf)
 
 - ~~Literature review on adapters in neural network training and optimization~~
   - ~~[Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/pdf/1902.00751.pdf)~~
