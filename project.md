@@ -112,7 +112,10 @@ The course project can be categorized as a literature review, original research,
   - [Revisiting Frank-Wolfe: Projection-Free Sparse Convex Optimization](http://m8j.net/math/revisited-FW.pdf)
   - (More papers to be announced)
 
-  
+- Recent advances in acceleration methods
+  - [Provable Acceleration of Heavy Ball beyond Quadratics for a Class of Polyak-Łojasiewicz Functions when the Non-Convexity is Averaged-Out](https://arxiv.org/pdf/2206.11872.pdf)
+  - [Accelerated Convergence of Nesterov's Momentum for Deep Neural Networks under Partial Strong Convexity](https://arxiv.org/pdf/2306.08109.pdf)
+  - [Provable non-accelerations of the heavy-ball method](https://arxiv.org/pdf/2307.11291.pdf)
       
 &nbsp;
 &nbsp;
