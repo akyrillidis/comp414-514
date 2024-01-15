@@ -91,7 +91,6 @@ The course project can be categorized as a literature review, original research,
   - [FENGWU: PUSHING THE SKILLFUL GLOBAL MEDIUM-RANGE WEATHER FORECAST BEYOND 10 DAYS LEAD](https://arxiv.org/pdf/2304.02948.pdf)
   - (probably more papers will be needed...)
 
- 
 - Review of large-scale ML models in AI
   - [Galactica: A Large Language Model for Science](https://arxiv.org/pdf/2211.09085.pdf)
   - [Branch-Train-Merge training of expert LLMs](https://arxiv.org/pdf/2208.03306.pdf)
@@ -116,6 +115,15 @@ The course project can be categorized as a literature review, original research,
   - [Provable Acceleration of Heavy Ball beyond Quadratics for a Class of Polyak-Łojasiewicz Functions when the Non-Convexity is Averaged-Out](https://arxiv.org/pdf/2206.11872.pdf)
   - [Accelerated Convergence of Nesterov's Momentum for Deep Neural Networks under Partial Strong Convexity](https://arxiv.org/pdf/2306.08109.pdf)
   - [Provable non-accelerations of the heavy-ball method](https://arxiv.org/pdf/2307.11291.pdf)
-      
+
+- Review of Byzantine Distributed optimization
+  - [Machine learning with adversaries: Byzantine tolerant gradient descent](https://papers.nips.cc/paper_files/paper/2017/file/f4b9ec30ad9f68f89b29639786cb62ef-Paper.pdf)
+  - [Byzantine-resilient SGD in high dimensions on heterogeneous data](https://arxiv.org/pdf/2005.07866.pdf)
+  - [The hidden vulnerability of distributed learning in byzantium](https://arxiv.org/pdf/1802.07927.pdf)
+  - [Byzantine machine learning made easy by resilient averaging of momentums](https://arxiv.org/pdf/2205.12173.pdf)
+  - [An equivalence between data poisoning and byzantine gradient attacks](https://arxiv.org/pdf/2202.08578.pdf)
+  - [Byzantine-robust learning on heterogeneous datasets via resampling](https://arxiv.org/pdf/2006.09365.pdf)
+
+
 &nbsp;
 &nbsp;
