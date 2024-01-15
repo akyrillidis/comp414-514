@@ -75,6 +75,7 @@ The course project can be categorized as a literature review, original research,
   - [Efficient Lifelong Learning with A-GEM](https://arxiv.org/pdf/1812.00420.pdf)
   - [Don't Stop Pretraining: Adapt Language Models to Domains and Tasks](https://arxiv.org/pdf/2004.10964.pdf)
   - [Gradient Episodic Memory for Continual Learning](https://arxiv.org/pdf/1706.08840.pdf)
+  - [Cold Start Streaming Learning for Deep Networks](https://arxiv.org/pdf/2211.04624.pdf)
 
 - ~~Literature review on adapters in neural network training and optimization~~
   - ~~[Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/pdf/1902.00751.pdf)~~
