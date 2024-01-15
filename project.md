@@ -57,6 +57,12 @@ The course project can be categorized as a literature review, original research,
 - Quantum Approximate Optimization Algorithm from a Optimization perspective
   - [Writeup provided by instructor - per request]()
 
+- Empirical evaluation of derivative free optimization methods in quantum objectives
+  - []()
+ 
+- Homotopy methods, graduated optimization and quantum annealing
+  - []()
+
 - Transformer alternatives
   - [Attention is all you need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
   - [Overview of transformers](https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/)
