@@ -54,17 +54,19 @@ The course project can be categorized as a literature review, original research,
   - [i-SpaSP: Structured Neural Pruning via Sparse Signal Recovery](https://arxiv.org/pdf/2112.04905.pdf)
   - [Writeup provided by instructor - per request]()
 
-- Quantum Approximate Optimization Algorithm from a Optimization perspective
+- Quantum Approximate Optimization Algorithm from an Optimization perspective
   - [Writeup provided by instructor - per request]()
 
-- Empirical evaluation of derivative free optimization methods in quantum objectives
+- Empirical evaluation of derivative-free optimization methods in quantum objectives
   - [Performance of the Quantum Approximate Optimization Algorithm on the Maximum Cut Problem](https://arxiv.org/pdf/1811.08419.pdf)
   - [Introductory Tutorial for SPSA and the Quantum Approximation Optimization Algorithm](https://arxiv.org/pdf/2106.01578.pdf)
   - [Global Solutions to Nonconvex Problems by Evolution of Hamilton-Jacobi PDEs](https://arxiv.org/pdf/2202.11014.pdf)
   - (probably more recent papers will be included...)
  
-- Homotopy methods, graduated optimization and quantum annealing
-  - []()
+- Homotopy methods, graduated optimization, and quantum annealing
+  - [On Graduated Optimization for Stochastic Non-Convex Problems](https://arxiv.org/pdf/1503.03712.pdf)
+  - [Adiabatic quantum computing with parameterized quantum circuits](https://arxiv.org/pdf/2206.04373.pdf)
+  - [Faster Convex Optimization: Simulated Annealing with an Efficient Universal Barrier](https://arxiv.org/pdf/1507.02528.pdf)
 
 - Transformer alternatives
   - [Attention is all you need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
