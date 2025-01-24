@@ -40,23 +40,21 @@ The course project can be categorized as a literature review, original research,
   - [Scaling deep learning for materials discovery](https://www.nature.com/articles/s41586-023-06735-9.pdf)
   - [Can LLMs generate diverse molecules?](https://arxiv.org/pdf/2410.03138)
 
-- Modernized view of learning rates in optimization methods
-  - [Acceleration via fractal learning rate schedules](https://proceedings.mlr.press/v139/agarwal21a/agarwal21a.pdf)
-  - [Super-acceleration with cyclical step-sizes](https://proceedings.mlr.press/v151/goujaud22a/goujaud22a.pdf)
-  - [Provably Faster Gradient Descent via Long Steps](https://arxiv.org/pdf/2307.06324.pdf)
+- Optimization in quantum computing: benchmarking algorithms
+  - (This is a project about setting up scenarios to test classical and quantum algorithms on classical CS problems)
+  - [Parameter Setting in Quantum Approximate Optimization of Weighted Problems](https://arxiv.org/pdf/2305.15201)
+  - [Writeup provided by instructor - per request]()
 
-- Recent advances in adaptive methods in ML
+- Learning rate schedules and variational quantum computing algorithms: is there a connection?
   - [Adaptive proximal algorithms for convex optimization under local Lipschitz continuity of the gradient](https://arxiv.org/pdf/2301.04431.pdf)
   - [Stochastic polyak step-size for SGD: An adaptive learning rate for fast convergence](https://arxiv.org/pdf/2002.10542.pdf)
   - [Learning-Rate-Free Learning by D-Adaptation](https://arxiv.org/pdf/2301.07733.pdf)
   - [Automatic Gradient Descent: Deep Learning without Hyperparameters](https://arxiv.org/pdf/2304.05187.pdf)
   - [Adaptive FL with auto-tuned clients](https://arxiv.org/pdf/2306.11201.pdf)
   
-- Sparse post-training pruning and update in Neural Network training
-  - [i-SpaSP: Structured Neural Pruning via Sparse Signal Recovery](https://arxiv.org/pdf/2112.04905.pdf)
-  - [Writeup provided by instructor - per request]()
-
-- Quantum Approximate Optimization Algorithm from an Optimization perspective
+- How much pretraining in neural networks before low-rank approximations can safely ``kick in''?
+  - [How Much Pre-training Is Enough to Discover a Good Subnetwork?](https://openreview.net/pdf?id=UVE7LllpXe)
+  - [Drawing Early-Bird Tickets: Toward More Efficient Training of Deep Networks](https://openreview.net/pdf?id=BJxsrgStvr)
   - [Writeup provided by instructor - per request]()
 
 - Empirical evaluation of derivative-free optimization methods in quantum objectives
