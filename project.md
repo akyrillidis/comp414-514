@@ -56,31 +56,19 @@ The course project can be categorized as a literature review, original research,
   - [How Much Pre-training Is Enough to Discover a Good Subnetwork?](https://openreview.net/pdf?id=UVE7LllpXe)
   - [Drawing Early-Bird Tickets: Toward More Efficient Training of Deep Networks](https://openreview.net/pdf?id=BJxsrgStvr)
   - [Writeup provided by instructor - per request]()
-
-- Empirical evaluation of derivative-free optimization methods in quantum objectives
-  - [Performance of the Quantum Approximate Optimization Algorithm on the Maximum Cut Problem](https://arxiv.org/pdf/1811.08419.pdf)
-  - [Introductory Tutorial for SPSA and the Quantum Approximation Optimization Algorithm](https://arxiv.org/pdf/2106.01578.pdf)
-  - [Global Solutions to Nonconvex Problems by Evolution of Hamilton-Jacobi PDEs](https://arxiv.org/pdf/2202.11014.pdf)
-  - (probably more recent papers will be included...)
  
-- Homotopy methods, graduated optimization, and quantum annealing
+- Homotopy methods, graduated optimization, and quantum annealing: Find connections between them
   - [On Graduated Optimization for Stochastic Non-Convex Problems](https://arxiv.org/pdf/1503.03712.pdf)
   - [Adiabatic quantum computing with parameterized quantum circuits](https://arxiv.org/pdf/2206.04373.pdf)
   - [Faster Convex Optimization: Simulated Annealing with an Efficient Universal Barrier](https://arxiv.org/pdf/1507.02528.pdf)
-
-- Transformer alternatives
-  - [Attention is all you need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
-  - [Overview of transformers](https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/)
-  - [MLP-Mixer: An all-MLP Architecture for Vision](https://arxiv.org/pdf/2105.01601.pdf)
-  - [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/pdf/2307.08621.pdf)
  
-- (Recent) advances in asynchrony on distributed SGD
+- Advances in asynchrony on distributed SGD and how to improve them
   - [Learning Under Delayed Feedback: Implicitly Adapting to Gradient Delays](https://arxiv.org/pdf/2106.12261.pdf)
   - [Asynchronous Stochastic Optimization Robust to Arbitrary Delays](https://proceedings.neurips.cc/paper/2021/file/4b85256c4881edb6c0776df5d81f6236-Paper.pdf)
   - [Sharper Convergence Guarantees for Asynchronous SGD for Distributed and Federated Learning](https://arxiv.org/pdf/2206.08307.pdf)
   - [Asynchronous SGD Beats Minibatch SGD Under Arbitrary Delays](https://arxiv.org/pdf/2206.07638.pdf)
  
-- Review of classical continual learning methods
+- Continual learning methods and how to improve them
   - [iCaRL: Incremental Classifier and Representation Learning](https://arxiv.org/pdf/1611.07725.pdf)
   - [End-to-End Incremental Learning](https://arxiv.org/pdf/1807.09536.pdf)
   - [Efficient Lifelong Learning with A-GEM](https://arxiv.org/pdf/1812.00420.pdf)
@@ -88,64 +76,23 @@ The course project can be categorized as a literature review, original research,
   - [Gradient Episodic Memory for Continual Learning](https://arxiv.org/pdf/1706.08840.pdf)
   - [Cold Start Streaming Learning for Deep Networks](https://arxiv.org/pdf/2211.04624.pdf)
 
-- Review of modern continual learning methods
+- Agentic AI: new ideas and how to improve them
   - [One Size Fits All for Semantic Shifts: Adaptive Prompt Tuning for Continual Learning](https://arxiv.org/pdf/2311.12048.pdf)
   - [Compress, Then Prompt: Improving Accuracy-Efficiency Trade-off of LLM Inference with Transferable Prompt](https://arxiv.org/pdf/2305.11186.pdf)
   - [FedJETs: Efficient Just-In-Time Personalization with Federated Mixture of Experts](https://arxiv.org/pdf/2306.08586.pdf)
   - [Sweeping Heterogeneity with Smart MoPs: Mixture of Prompts for LLM Task Adaptation](https://arxiv.org/pdf/2310.02842.pdf)
 
-- Review of ML models on weather forecasting
-  - [Learning skillful medium-range global weather forecasting](https://arxiv.org/pdf/2212.12794.pdf)
-  - [ClimaX: A foundation model for weather and climate](https://arxiv.org/pdf/2301.10343.pdf)
-  - [FourCastNet: Accelerating Global High-Resolution Weather Forecasting using Adaptive Fourier Neural Operators](https://arxiv.org/pdf/2208.05419.pdf)
-  - [WeatherBench 2: A benchmark for the next generation of data-driven global weather models](https://arxiv.org/pdf/2308.15560.pdf)
-  - [FENGWU: PUSHING THE SKILLFUL GLOBAL MEDIUM-RANGE WEATHER FORECAST BEYOND 10 DAYS LEAD](https://arxiv.org/pdf/2304.02948.pdf)
-  - (probably more papers will be needed...)
-
-- Review of large-scale ML models in AI
-  - [Galactica: A Large Language Model for Science](https://arxiv.org/pdf/2211.09085.pdf)
-  - [Branch-Train-Merge training of expert LLMs](https://arxiv.org/pdf/2208.03306.pdf)
-  - [Training a language model on a single GPU in one day](https://arxiv.org/pdf/2212.14034.pdf)
-  - [Scaling ViT to 22B](https://arxiv.org/pdf/2302.05442.pdf)
-  - [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971.pdf)
-  - [BloombergGPT](https://arxiv.org/pdf/2303.17564.pdf)
-  - [Textbooks Are All You Need](https://arxiv.org/pdf/2306.11644.pdf)
-  - (probably more papers will be needed...)
-
-- Literature review on adapters in neural network training and optimization
-  - [Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/pdf/1902.00751.pdf)
-  - [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/pdf/2101.00190.pdf)
-  - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf)
-  - [Towards a Unified View of Parameter-Efficient Transfer Learning](https://arxiv.org/pdf/2110.04366.pdf)
-
-- Literature review of recent developments on Frank-Wolfe methods
-  - [Revisiting Frank-Wolfe: Projection-Free Sparse Convex Optimization](http://m8j.net/math/revisited-FW.pdf)
-  - (More papers to be announced)
-
-- Recent advances in acceleration methods
+- Recent advances in acceleration methods: extensions
   - [Provable Acceleration of Heavy Ball beyond Quadratics for a Class of Polyak-Łojasiewicz Functions when the Non-Convexity is Averaged-Out](https://arxiv.org/pdf/2206.11872.pdf)
   - [Accelerated Convergence of Nesterov's Momentum for Deep Neural Networks under Partial Strong Convexity](https://arxiv.org/pdf/2306.08109.pdf)
   - [Provable non-accelerations of the heavy-ball method](https://arxiv.org/pdf/2307.11291.pdf)
 
-- Review of Byzantine Distributed optimization
-  - [Machine learning with adversaries: Byzantine tolerant gradient descent](https://papers.nips.cc/paper_files/paper/2017/file/f4b9ec30ad9f68f89b29639786cb62ef-Paper.pdf)
-  - [Byzantine-resilient SGD in high dimensions on heterogeneous data](https://arxiv.org/pdf/2005.07866.pdf)
-  - [The hidden vulnerability of distributed learning in byzantium](https://arxiv.org/pdf/1802.07927.pdf)
-  - [Byzantine machine learning made easy by resilient averaging of momentums](https://arxiv.org/pdf/2205.12173.pdf)
-  - [An equivalence between data poisoning and byzantine gradient attacks](https://arxiv.org/pdf/2202.08578.pdf)
-  - [Byzantine-robust learning on heterogeneous datasets via resampling](https://arxiv.org/pdf/2006.09365.pdf)
-
-- Review on efficient distributed protocols: independent subnetwork training (IST)
+- Review on efficient distributed protocols: independent subnetwork training (IST) - new ideas on IST
   - [Distributed learning of fully connected neural networks using independent subnet training](https://par.nsf.gov/servlets/purl/10404274)
   - [GIST: Distributed training for large-scale graph convolutional networks](https://link.springer.com/article/10.1007/s41468-023-00127-8)
   - [Resist: Layer-wise decomposition of resnets for distributed training](https://proceedings.mlr.press/v180/dun22a/dun22a.pdf)
   - [Efficient and Light-Weight Federated Learning via Asynchronous Distributed Dropout](https://proceedings.mlr.press/v206/dun23a/dun23a.pdf)
   - [Federated Learning Over Images: Vertical Decompositions and Pre-Trained Backbones Are Difficult to Beat](https://openaccess.thecvf.com/content/ICCV2023/papers/Hu_Federated_Learning_Over_Images_Vertical_Decompositions_and_Pre-Trained_Backbones_Are_ICCV_2023_paper.pdf)
-
-- Review of theoretical results for various pruning methods
-  - [On the convergence of shallow neural network training with randomly masked neurons](https://arxiv.org/pdf/2112.02668.pdf)
-  - [How much pre-training is enough to discover a good subnetwork?](https://arxiv.org/pdf/2108.00259.pdf)
-  - [Strong Lottery Ticket Hypothesis with epsilon–perturbation](https://proceedings.mlr.press/v206/xiong23a/xiong23a.pdf)
 
 &nbsp;
 &nbsp;
