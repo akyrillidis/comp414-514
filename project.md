@@ -22,9 +22,9 @@ The course project can be categorized as a literature review, original research,
 
 ### Milestones
 
-- Pick a project the **sooner as possible**. **Deadline: February 2nd (Friday).**
+- Pick a project the **sooner as possible**. **Deadline: February 7th (Friday).**
 
-- Submit a one-page description of the project, what it is about, your opinion, what needs to be done (related papers to read), and whether you have any ideas to improve the ideas involved. Describe why they are important or interesting, and provide some appropriate references. If it is original research, provide a plan for the next steps and what needs to be done by the end of the semester to finish the project. **Deadline: February 16th (Friday).**
+- Submit a one-page description of the project, what it is about, your opinion, what needs to be done (related papers to read), and whether you have any ideas to improve the ideas involved. Describe why they are important or interesting, and provide some appropriate references. If it is original research, provide a plan for the next steps and what needs to be done by the end of the semester to finish the project. **Deadline: February 14th (Friday).**
 
 - We will probably have in-class presentations towards the end of the semester. These will be spotlight talks (~5-10mins). Prepare an oral presentation with slides. Focus on high-level ideas, and leave most technical details to your report.
 
@@ -34,11 +34,11 @@ The course project can be categorized as a literature review, original research,
 
 **Project ideas**
   
-- Computer-assisted worst-case analysis of gradient-based algorithms
-  - [An optimal gradient method for smooth strongly convex minimization](https://arxiv.org/pdf/2101.09741.pdf)
-  - [Counter-Examples in First-Order Optimization: A Constructive Approach](https://arxiv.org/pdf/2303.10503.pdf)
-  - [On Fundamental Proof Structures in First-Order Optimization](https://arxiv.org/pdf/2310.02015.pdf)
-  - [PEPit: computer-assisted worst-case analyses of first-order optimization methods in Python](https://arxiv.org/pdf/2201.04040.pdf)
+- The math and modeling behind AI in material science
+  - [Crystal diffusion variational autoencoder for periodic material generation](https://arxiv.org/pdf/2110.06197)
+  - [An autonomous laboratory for the accelerated synthesis of novel materials](https://www.nature.com/articles/s41586-023-06734-w.pdf)
+  - [Scaling deep learning for materials discovery](https://www.nature.com/articles/s41586-023-06735-9.pdf)
+  - [Can LLMs generate diverse molecules?](https://arxiv.org/pdf/2410.03138)
 
 - Modernized view of learning rates in optimization methods
   - [Acceleration via fractal learning rate schedules](https://proceedings.mlr.press/v139/agarwal21a/agarwal21a.pdf)
