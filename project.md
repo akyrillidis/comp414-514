@@ -22,9 +22,9 @@ The course project can be categorized as a literature review, original research,
 
 ### Milestones
 
-- Pick a project the **sooner as possible**. **Deadline: February 7th (Friday).**
+- Pick a project the **sooner as possible**. **Deadline: February 17th (Friday).**
 
-- Submit a one-page description of the project, what it is about, your opinion, what needs to be done (related papers to read), and whether you have any ideas to improve the ideas involved. Describe why they are important or interesting, and provide some appropriate references. If it is original research, provide a plan for the next steps and what needs to be done by the end of the semester to finish the project. **Deadline: February 14th (Friday).**
+- Submit a one-page description of the project, what it is about, your opinion, what needs to be done (related papers to read), and whether you have any ideas to improve the ideas involved. Describe why they are important or interesting, and provide some appropriate references. If it is original research, provide a plan for the next steps and what needs to be done by the end of the semester to finish the project. **Deadline: February 21st (Friday).**
 
 - We will probably have in-class presentations towards the end of the semester. These will be spotlight talks (~5-10mins). Prepare an oral presentation with slides. Focus on high-level ideas, and leave most technical details to your report.
 
