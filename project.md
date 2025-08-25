@@ -43,7 +43,7 @@ Below is a list of potential project ideas. You are welcome to propose your own,
 #### **Topic 1: Efficient Model Adaptation and Low-Rank Training**
 The rise of massive foundation models has made full fine-tuning computationally prohibitive. This area explores parameter-efficient techniques that modify only a small fraction of a model's weights.
 
-**Project Focus:** This project is heavily **implementation-focused**. The goal is to implement and compare two or more recent LoRA-like methods. A successful project would involve fine-tuning a small-to-medium language model (e.g., GPT-2, Llama-2-7B) on a downstream task and benchmarking the methods on both task performance (e.g., accuracy) and computational efficiency (memory usage, training time).
+**Project Focus:** This project is heavily **implementation-focused**. The goal is to implement and compare three or more recent LoRA-like methods. A successful project would involve fine-tuning a small-to-medium language model (e.g., GPT-2, Llama-2-7B) on a downstream task and benchmarking the methods on both task performance (e.g., accuracy) and computational efficiency (memory usage, training time).
 
 - **Core Papers:**
   - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
