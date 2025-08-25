@@ -61,9 +61,9 @@ MoE models activate only a fraction of their parameters for any given input, ena
 
 - **Core Papers:**
   - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538)
-  - [DD-oME: A Differentiable and Dynamic Offloading-based Mixture-of-Experts Framework](https://arxiv.org/abs/2405.17646)
-  - [Parameter-Efficient Routed Fine-Tuning for Large Language Models](https://arxiv.org/abs/2405.07119)
-  - [Soft-MoE: Scaling Mixture-of-Experts to Billions of Experts for Dynamic Model Training](https://arxiv.org/abs/2308.00951)
+  - [Learning to Specialize: Joint Gating-Expert Training for Adaptive MoEs in Decentralized Settings](https://arxiv.org/abs/2306.08586)
+  - [PERFT: Parameter-Efficient Routed Fine-Tuning for Mixture-of-Expert Model](https://arxiv.org/abs/2411.08212)
+  - [From Sparse to Soft Mixtures of Experts](https://arxiv.org/abs/2308.00951)
 
 ---
 
