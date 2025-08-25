@@ -26,7 +26,7 @@ You are encouraged to team up. Optimal size for a team is 3 students: deviations
 
 - **Project Selection:** Choose a project topic ASAP. **Deadline: October 3rd.**
 
-- **Project Proposal:** Submit a one-page description of your project. Outline the core problem, why it is interesting, and a list of key papers to read. For research projects, provide a clear plan of the steps you will take. **Deadline: Late February.**
+- **Project Proposal:** Submit a one-page description of your project. Outline the core problem, why it is interesting, and a list of key papers to read. For research projects, provide a clear plan of the steps you will take. **Deadline: October 10th.**
 
 - **In-Class Presentation:** Towards the end of the semester, you will give a short spotlight talk (5-10 minutes) on your project. Focus on high-level ideas and key results.
 
