@@ -16,7 +16,7 @@ layout: default
 
 The course project can be categorized as a literature review, original research, or a literature review that leads to original research.
 
-- **Literature Review:** An in-depth review and analysis of **a collection of papers** around a topic. The review must provide a critical summary, exposition, and discussion of the topic, which will often require reading related work for context.
+- **Literature Review:** An in-depth review and analysis of **a collection of papers** around a topic. The review must provide a critical summary, exposition, and discussion of the topic, which will often require reading related work for context. **This option will be sparsely selected by the tutor; it is easy to throw a bunch of papers into ChatGPT/Gemini and get your work done. The literature review should be on an interesting collection of papers that they do not seem connected but they are.**
 
 - **Original Research:** You are strongly encouraged to align the project with your current research interests. Otherwise, the instructor can provide ideas. Projects can be theoretical (e.g., proving a convergence guarantee) or experimental (e.g., implementing and benchmarking an algorithm).
 
