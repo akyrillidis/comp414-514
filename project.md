@@ -47,9 +47,10 @@ The rise of massive foundation models has made full fine-tuning computationally 
 
 - **Core Papers:**
   - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
-  - [LoST: Low-Rank and Sparse Training for Deep Neural Networks](https://arxiv.org/abs/2402.06202)
-  - [SLTrain: A Sparse Backpropagation-Free and LoRA-like Finetuning Approach](https://arxiv.org/abs/2404.09345)
+  - [LOST: Low-rank and Sparse Pre-training for Large Language Models](https://arxiv.org/abs/2508.02668)
+  - [SLTrain: a sparse plus low-rank approach for parameter and memory efficient pretraining](https://arxiv.org/abs/2406.02214)
   - [GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection](https://arxiv.org/abs/2403.03507)
+  - [LoRA+: Efficient Low Rank Adaptation of Large Models](https://arxiv.org/abs/2402.12354)
 
 ---
 
