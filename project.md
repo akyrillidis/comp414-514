@@ -110,7 +110,7 @@ Instead of training a monolithic network, what if we could break it into smaller
 #### **Topic 6: AI for Scientific Discovery & Material Science**
 Optimization is at the heart of modern scientific discovery, powering generative models for molecules and crystals, and driving the "active learning" loop in autonomous labs that decide the next experiment to run.
 
-**Project Focus:** This is a **literature review** project focusing on problem formulation. The student should select one sub-area (e.g., crystal generation) and deeply analyze how the scientific goal is translated into a tractable optimization problem. What are the objective functions? What are the constraints (e.g., chemical validity)? What specific algorithms (e.g., diffusion models, VAEs) are used to solve them?
+**Project Focus:** This is a **literature review** project focusing on problem formulation. The student should select one sub-area (e.g., crystal generation) and deeply analyze how the scientific goal is translated into a tractable optimization problem. What are the objective functions? What are the constraints (e.g., chemical validity)? What specific algorithms (e.g., diffusion models, VAEs) are used to solve them? **Teams with students from non-CS/non-ECE background will be given priority: consider your own discipline and how AI can be used in your field**. I'm open to discuss more areas: chemistry, civil engineering, weather forecasting, physics, etc.
 
 - **Core Papers:**
   - [Crystal Diffusion Variational Autoencoder for Periodic Material Generation](https://arxiv.org/pdf/2110.06197)
