@@ -70,13 +70,13 @@ MoE models activate only a fraction of their parameters for any given input, ena
 #### **Topic 3: The Quest for the Optimal Learning Rate**
 The learning rate is arguably the most critical hyperparameter in deep learning. This project area explores the frontier of adaptive and "learning-rate-free" optimization algorithms that aim to automate this choice.
 
-**Project Focus:** A mix of **theoretical review and implementation**. The student should compare the theoretical assumptions and guarantees behind 2-3 of the listed methods. The implementation component would involve benchmarking these adaptive methods against standard SGD with momentum and Adam on a well-known vision or language task, analyzing their convergence speed and final performance.
+**Project Focus:** A mix of **theoretical review and implementation**. The team should compare the theoretical assumptions and guarantees behind 2-3 of the listed methods. The implementation component would involve benchmarking these adaptive methods against standard SGD with momentum and Adam on a well-known vision or language task, analyzing their convergence speed and final performance.
 
 - **Core Papers:**
   - [Stochastic Polyak Step-size for SGD: An Adaptive Learning Rate for Fast Convergence](https://arxiv.org/pdf/2002.10542.pdf)
   - [Learning-Rate-Free Learning by D-Adaptation](https://arxiv.org/pdf/2301.07733.pdf)
   - [Automatic Gradient Descent: Deep Learning without Hyperparameters](https://arxiv.org/pdf/2304.05187.pdf)
-  - [Adaptive Proximal Algorithms for Convex Optimization under Local Lipschitz Continuity of the Gradient](https://arxiv.org/pdf/2301.04431.pdf)
+  - [The Road Less Scheduled](https://arxiv.org/abs/2405.15682)
   
 ---
 
