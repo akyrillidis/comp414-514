@@ -123,7 +123,7 @@ Optimization is at the heart of modern scientific discovery, powering generative
 #### **Topic 7: Second-Order Optimization in Deep Learning**
 While first-order methods like SGD and Adam dominate, second-order methods, which use curvature (Hessian) information, promise faster convergence. The challenge lies in making them scalable.
 
-**Project Focus:** This is a **theory and literature review** project. Compare and contrast how different methods (like K-FAC and Shampoo) approximate the Hessian to make computation feasible. A deep dive into the trade-offs between per-iteration cost, memory, and convergence rate would make for a strong report.
+**Project Focus:** This is a **theory, implementation and literature review** project. Compare and contrast how different methods (like K-FAC and Shampoo) approximate the Hessian to make computation feasible. A deep dive into the trade-offs between per-iteration cost, memory, and convergence rate would make for a strong report. Consider implementation of K-FAC, Shampoo, etc in small neural networks. 
 
 - **Core Papers:**
   - [Optimizing Neural Networks with Kronecker-factored Approximate Curvature](https://arxiv.org/abs/1503.05671) (K-FAC)
@@ -136,13 +136,14 @@ While first-order methods like SGD and Adam dominate, second-order methods, whic
 #### **Topic 8: Optimization in Quantum Machine Learning**
 Training quantum circuits as machine learning models presents unique optimization challenges not found in classical settings, such as the barren plateau phenomenon.
 
-**Project Focus:** A **literature review** focused on the translation of classical optimization concepts to the quantum realm. Students should explore the challenges of gradient estimation on quantum hardware and review algorithms designed to navigate the complex loss landscapes of variational quantum algorithms.
+**Project Focus:** A **literature review and an implementation** focused on the translation of classical optimization concepts to the quantum realm. Students should explore the challenges of gradient estimation on quantum hardware and review algorithms designed to navigate the complex loss landscapes of variational quantum algorithms. This is more about teaching the audience about the different ideas and settings considered in quantum optimization, compared to classical optimization. It is also about putting in code these ideas with existing packages like PennyLane that simulate quantum computation. The topic can be narrowed down down the line.
 
 - **Core Papers:**
+  - [Parameter Setting Heuristics Make the Quantum Approximate Optimization Algorithm Suitable for the Early Fault-Tolerant Era](https://arxiv.org/pdf/2408.09538)
   - [Barren plateaus in quantum neural network training landscapes](https://arxiv.org/abs/1803.11173)
   - [Quantum Natural Gradient](https://arxiv.org/abs/1909.02108)
   - [Parameter Setting in Quantum Approximate Optimization of Weighted Problems](https://arxiv.org/pdf/2305.15201)
-  - [A variational perspective on the quantum approximate optimization algorithm](https://arxiv.org/abs/2009.10095)
+  - [Warm-starting quantum optimization](https://arxiv.org/abs/2009.10095)
 
 ---
 
