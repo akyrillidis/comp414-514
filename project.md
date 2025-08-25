@@ -22,7 +22,7 @@ The course project can be categorized as a literature review, original research,
 
 ### Milestones
 
-- **Project Selection:** Choose a project topic as soon as possible. **Deadline: Mid-February.**
+- **Project Selection:** Choose a project topic ASAP. **Deadline: Mid-February.**
 
 - **Project Proposal:** Submit a one-page description of your project. Outline the core problem, why it is interesting, and a list of key papers to read. For research projects, provide a clear plan of the steps you will take. **Deadline: Late February.**
 
