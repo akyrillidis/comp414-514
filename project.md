@@ -97,7 +97,7 @@ How do you train a model when data is decentralized and workers are unreliable? 
 #### **Topic 5: Scalable Training via Model Decomposition (IST)**
 Instead of training a monolithic network, what if we could break it into smaller parts that can be trained semi-independently? This topic explores various strategies for model decomposition to enable efficient, distributed training.
 
-**Project Focus:** A **literature review** project. Compare and contrast different decomposition strategies, such as Independent Subnetwork Training (IST), vertical decomposition, and layer-wise approaches like in `Resist`. A strong report will synthesize these ideas and discuss their respective trade-offs in terms of communication cost, scalability, and model performance.
+**Project Focus:** A **literature review** project. Compare and contrast different decomposition strategies, such as Independent Subnetwork Training (IST), vertical decomposition, and layer-wise approaches like in `Resist`. A strong report will synthesize these ideas and discuss their respective trade-offs in terms of communication cost, scalability, and model performance. A strong report also would consider extending the optimizer used in IST from simple SGD to a momentum/Adam type.
 
 - **Core Papers:**
   - [Distributed Learning of Fully Connected Neural Networks Using Independent Subnet Training](https://par.nsf.gov/servlets/purl/10404274)
