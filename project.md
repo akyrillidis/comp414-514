@@ -14,40 +14,6 @@ layout: default
 
 &nbsp;
 
-The course project can be categorized as a literature review, original research, or a literature review that ends up as original research (there is flexibility to that).
-
-- **Literature review.** This includes an in-depth review and analysis of a paper (to be selected from a list of papers provided by the instructor or you after the instructor's approval). The review should provide an in-depth summary, exposition, and discussion of the paper (which will often include reading other related papers on that subject). **This part should be avoided if you only plan to throw a bunch of papers into ChatGPT/Gemini and get your work done**.
-
-- **Original research.** You are strongly encouraged to combine your current study with the course project. Otherwise, the instructor will provide some ideas to follow. It can be either theoretical or experimental. **This will be the default option for projects**
-
-### Milestones
-
-- Pick a project the **sooner as possible**. **Deadline: October 3rd (Friday).**
-
-- Submit a one-page description of the project, what it is about, your opinion, what needs to be done (related papers to read), and whether you have any ideas to improve the ideas involved. Describe why they are important or interesting, and provide some appropriate references. If it is original research, provide a plan for the next steps and what needs to be done by the end of the semester to finish the project. **Deadline: October 10th (Friday).**
-
-- We will probably have in-class presentations towards the end of the semester. These will be spotlight talks (~5-10mins). Prepare an oral presentation with slides. Focus on high-level ideas, and leave most technical details to your report.
-
-- A written report. A LaTeX template will be provided (most probably in ICML format). The report should be at least six pages (excluding references). **Deadline: End of the semester.** Note that the project can continue beyond the end of the semester if it deserves publication.
-
-### Suggested list of projects/papers (to be updated)
-
-**Project ideas (every project includes ALL papers and more; not one of them)**
-  
----
-layout: default
----
-
-&nbsp;
-
-[Proceedings 2019 - Part 1](/schedule/images/Proceedings2019_Part1.pdf) &emsp;&emsp;&emsp;   [Proceedings 2019 - Part 2](/schedule/images/Proceedings2019_Part2.pdf)
-[Proceedings 2020 - Part 1](/schedule/images/Proceedings2020_Part1.pdf) &emsp;&emsp;&emsp;   [Proceedings 2020 - Part 2](/schedule/images/Proceedings2020_Part2.pdf)
-[Proceedings 2021 - Part 1](/schedule/images/Proceedings2021_Part1.pdf) &emsp;&emsp;&emsp;   [Proceedings 2021 - Part 2](/schedule/images/Proceedings2021_Part2.pdf)
-[Proceedings 2023 - Part 1](/schedule/images/Proceedings2023_Part1.pdf) &emsp;&emsp;&emsp;   [Proceedings 2023 - Part 2](/schedule/images/Proceedings2023_Part2.pdf)
-[Proceedings 2025 - Part 1](/schedule/images/Proceedings2025_Part1.pdf) &emsp;&emsp;&emsp;   [Proceedings 2025 - Part 2](/schedule/images/Proceedings2025_Part2.pdf)
-
-&nbsp;
-
 The course project can be categorized as a literature review, original research, or a literature review that leads to original research.
 
 - **Literature Review:** An in-depth review and analysis of a paper or a small set of related papers. The review must provide a critical summary, exposition, and discussion of the topic, which will often require reading related work for context.
