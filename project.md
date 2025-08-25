@@ -150,12 +150,13 @@ Training quantum circuits as machine learning models presents unique optimizatio
 #### **Topic 9: Embedding Solvers as Differentiable Neural Network Layers**
 What if a layer in your network was an optimization solver? This paradigm allows for embedding constrained optimization, combinatorial solvers, or even physics simulations directly into end-to-end trainable models.
 
-**Project Focus:** **Review-heavy with a potential implementation component.** The core task is to review the role of the Implicit Function Theorem in enabling backpropagation through a solver. A more advanced project could involve implementing a simple differentiable QP layer using a library like `cvxpylayers`.
+**Project Focus:** **Review-heavy with a potential implementation component.** The core task is to review the role of the Implicit Function Theorem in enabling backpropagation through a solver. The goal is to move beyond the convex case. A more advanced project could involve implementing a simple differentiable optimization layer using a library like `cvxpylayers` (if convex) or using something like `julianonconvex`. 
 
 - **Core Papers:**
   - [OptNet: Differentiable Optimization as a Layer in Neural Networks](https://arxiv.org/abs/1703.00443)
   - [Differentiable Convex Optimization Layers](https://arxiv.org/abs/1910.12430)
   - [SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver](https://arxiv.org/abs/1905.12149)
+  - [Non convex optimization and implicit function theorem](https://julianonconvex.github.io/Nonconvex.jl/stable/)
 
 ---
 
@@ -165,9 +166,10 @@ Energy-Based Models (EBMs) offer a flexible framework for generative modeling bu
 **Project Focus:** A **theoretical review**. What are the connections between the properties of the energy function and the optimization landscape? Review the role of MCMC-based methods for gradient estimation (like contrastive divergence) and discuss how these sampling methods interact with the optimizer's convergence. What is the "twist"? The twist is to connect EBM training to the broader class of saddle-point optimization problems.
 
 - **Core Papers:**
-  - [Implicit Generation and Generalization in Energy-Based Models](https://arxiv.org/abs/2006.14233)
+  - [Implicit Generation and Generalization in Energy-Based Models](https://arxiv.org/abs/1903.08689)
   - [How to Train Your Energy-Based Models](https://arxiv.org/abs/2101.03288)
-  - [Energy-Based Models for Continual Learning](https://arxiv.org/abs/2011.13264)
+  - [Energy-Based Models for Continual Learning](https://arxiv.org/pdf/2011.12216)
+  - [Energy-Based Transformers are Scalable Learners and Thinkers](https://arxiv.org/abs/2507.02092)
 
 &nbsp;
 &nbsp;
