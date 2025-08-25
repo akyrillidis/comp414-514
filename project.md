@@ -20,9 +20,11 @@ The course project can be categorized as a literature review, original research,
 
 - **Original Research:** You are strongly encouraged to align the project with your current research interests. Otherwise, the instructor can provide ideas. Projects can be theoretical (e.g., proving a convergence guarantee) or experimental (e.g., implementing and benchmarking an algorithm). **This will be the default option for projects.**
 
+You are encouraged to team up. Optimal size for a team is 3 students: deviations from this number will be considered given the circumstances (either there is no one to team up, or you have your own research you want to push forward, or the project is difficult and allows more team-members).
+
 ### Milestones
 
-- **Project Selection:** Choose a project topic ASAP. **Deadline: Mid-February.**
+- **Project Selection:** Choose a project topic ASAP. **Deadline: October 3rd.**
 
 - **Project Proposal:** Submit a one-page description of your project. Outline the core problem, why it is interesting, and a list of key papers to read. For research projects, provide a clear plan of the steps you will take. **Deadline: Late February.**
 
