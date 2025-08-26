@@ -87,11 +87,12 @@ How do you train a model when data is decentralized and workers are unreliable? 
 
 - **Core Papers:**
   - [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629) (FedAvg)
+  - [DiLoCo: Distributed Low-Communication Training of Language Models](https://arxiv.org/abs/2311.08105)
+  - [DiPaCo: Distributed Path Composition](https://arxiv.org/abs/2403.10616)
+  - [NoLoCo: No-all-reduce Low Communication Training Method for Large Models](https://arxiv.org/abs/2506.10911)
   - [Asynchronous Stochastic Optimization Robust to Arbitrary Delays](https://proceedings.neurips.cc/paper/2021/file/4b85256c4881edb6c0776df5d81f6236-Paper.pdf)
   - [Asynchronous SGD Beats Minibatch SGD Under Arbitrary Delays](https://arxiv.org/pdf/2206.07638.pdf)
-  - [Sharper Convergence Guarantees for Asynchronous SGD for Distributed and Federated Learning](https://arxiv.org/pdf/2206.08307.pdf)
-  - [Learning Under Delayed Feedback: Implicitly Adapting to Gradient Delays](https://arxiv.org/pdf/2106.12261.pdf)
-
+  
 ---
 
 #### **Topic 5: Scalable Training via Model Decomposition (IST)**
