@@ -78,6 +78,7 @@ The learning rate is arguably the most critical hyperparameter in deep learning.
   - [Learning-Rate-Free Learning by D-Adaptation](https://arxiv.org/pdf/2301.07733.pdf)
   - [Automatic Gradient Descent: Deep Learning without Hyperparameters](https://arxiv.org/pdf/2304.05187.pdf)
   - [The Road Less Scheduled](https://arxiv.org/abs/2405.15682)
+  - [Polyak Stepsize: Estimating Optimal Functional Values Without Parameters or Prior Knowledge](https://arxiv.org/pdf/2508.17288)
   
 ---
 
